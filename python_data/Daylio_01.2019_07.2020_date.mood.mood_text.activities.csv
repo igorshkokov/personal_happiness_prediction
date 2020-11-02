@@ -1,0 +1,583 @@
+full_date,mood,activities,mood_num
+2020-07-31,good,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | television | sun (on skin),4
+2020-07-30,good,workplace work | personal work | people (1h+) | friends | party/bar | date (+time spent) | touch | eating out | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,4
+2020-07-29,good,workplace work | personal work | people (1h+) | date (+time spent) | touch | eating out | cook (no microw) | gaming | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,4
+2020-07-28,meh+,workplace work | personal work | people (1h+) | friends | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,3.5
+2020-07-27,good+,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | eating out | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,4.5
+2020-07-26,good,personal work | people (1h+) | date (+time spent) | touch | eating out | gaming | laundry | sun (on skin) | walking (30m+) | biking (20m+),4
+2020-07-25,good+,people (1h+) | friends | date (+time spent) | touch | eating out | walking (30m+),4.5
+2020-07-24,good+,workplace work | people (1h+) | date (+time spent) | touch | eating out | shopping (courses) | cook (no microw) | sun (on skin) | walking (30m+) | biking (20m+),4.5
+2020-07-23,rad,workplace work | personal work | people (1h+) | friends | touch | cook (no microw) | reading | gaming | sun (on skin) | walking (30m+) | sport | volley,5
+2020-07-22,good+,workplace work | personal work | people (1h+) | touch | shopping (courses) | cook (no microw) | reading | television | daysleep | sun (on skin) | sport | biking (20m+) | volley,4.5
+2020-07-21,meh+,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | shopping (courses) | cook (no microw) | gaming | films | sun (on skin) | stress ventre | walking (30m+) | sport | biking (20m+),3.5
+2020-07-20,meh,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | cleaning | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,3
+2020-07-19,rad,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | eating out | films | laundry | sun (on skin) | walking (30m+) | biking (20m+),5
+2020-07-18,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | eating out | gaming | television | daysleep | sun (on skin) | walking (30m+) | biking (20m+),5
+2020-07-17,rad,workplace work | personal work | people (1h+) | date (+time spent) | touch | eating out | reading | gaming | television | sun (on skin) | walking (30m+) | sport,5
+2020-07-16,good+,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | eating out | shopping (courses) | cook (no microw) | gaming | television | walking (30m+),4.5
+2020-07-15,good+,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | eating out | reading | gaming | walking (30m+) | biking (20m+),4.5
+2020-07-14,meh,workplace work | personal work | people (1h+) | friends | cook (no microw) | reading | gaming | television | daysleep | walking (30m+) | biking (20m+),3
+2020-07-13,good,workplace work | personal work | people (1h+) | friends | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport,4
+2020-07-12,good+,personal work | people (1h+) | friends | cook (no microw) | gaming | television | daysleep | travel | sun (on skin) | walking (30m+),4.5
+2020-07-11,rad,people (1h+) | friends | date (+time spent) | touch | eating out | travel | sun (on skin) | walking (30m+) | sport,5
+2020-07-10,rad,people (1h+) | friends | eating out | gaming | television | daysleep | travel | sun (on skin) | walking (30m+),5
+2020-07-09,rad,workplace work | personal work | people (1h+) | friends | eating out | travel | sun (on skin) | stress ventre | walking (30m+),5
+2020-07-08,rad,workplace work | personal work | people (1h+) | friends | shopping (courses) | gaming | travel | sun (on skin) | walking (30m+),5
+2020-07-07,good+,workplace work | people (1h+) | friends | shopping (courses) | cook (no microw) | travel | sun (on skin) | walking (30m+),4.5
+2020-07-06,good+,workplace work | people (1h+) | friends | eating out | shopping (courses) | reading | gaming | travel | sun (on skin) | stress ventre | walking (30m+),4.5
+2020-07-05,good+,personal work | people (1h+) | friends | eating out | reading | gaming | travel | sun (on skin) | walking (30m+),4.5
+2020-07-04,good,workplace work | personal work | people (1h+) | friends | party/bar | cook (no microw) | gaming | television | walking (30m+) | sport | biking (20m+),4
+2020-07-03,meh+,workplace work | people (1h+) | friends | party/bar | cook (no microw) | gaming | walking (30m+) | sport | biking (20m+),3.5
+2020-07-02,good,workplace work | people (1h+) | friends | eating out | shopping (courses) | cook (no microw) | gaming | films | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-07-01,good,workplace work | people (1h+) | friends | cook (no microw) | reading | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-06-30,meh+,workplace work | people (1h+) | date (+time spent) | touch | cook (no microw) | gaming | television | sun (on skin) | stress ventre | walking (30m+) | sport | biking (20m+),3.5
+2020-06-29,good,workplace work | personal work | people (1h+) | shopping (courses) | cook (no microw) | gaming | films | sun (on skin) | sport | biking (20m+) | volley,4
+2020-06-28,good,personal work | people (1h+) | friends | eating out | reading | gaming | films | laundry | sun (on skin) | walking (30m+) | biking (20m+),4
+2020-06-27,rad,people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | films | sun (on skin) | walking (30m+) | sport | volley,5
+2020-06-26,good+,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | shopping (courses) | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-06-25,meh+,workplace work | personal work | people (1h+) | friends | party/bar | gaming | films | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,3.5
+2020-06-24,good+,workplace work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | gaming | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-06-23,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | shopping (courses) | cook (no microw) | reading | gaming | sun (on skin) | walking (30m+) | sport | biking (20m+),5
+2020-06-22,rad,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | cook (no microw) | television | sun (on skin) | walking (30m+) | sport,5
+2020-06-21,good+,personal work | people (1h+) | friends | party/bar | eating out | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-06-20,good+,workplace work | people (1h+) | friends | party/bar | eating out | cook (no microw) | gaming | television | laundry | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-06-19,good+,workplace work | personal work | people (1h+) | friends | party/bar | touch | shopping (courses) | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-06-18,meh+,workplace work | personal work | shopping (courses) | cook (no microw) | gaming | films | television | sun (on skin) | sport | biking (20m+),3.5
+2020-06-17,good,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-06-16,meh+,workplace work | personal work | cook (no microw) | gaming | films | television | sun (on skin) | walking (30m+) | sport | biking (20m+),3.5
+2020-06-15,good,workplace work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-06-14,rad,personal work | people (1h+) | friends | eating out | shopping (courses) | reading | films | sun (on skin) | walking (30m+),5
+2020-06-13,rad,personal work | people (1h+) | friends | cook (no microw) | sun (on skin) | walking (30m+) | sport | biking (20m+),5
+2020-06-12,good+,workplace work | personal work | people (1h+) | friends | cook (no microw) | reading | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-06-11,good,workplace work | personal work | shopping (courses) | cook (no microw) | reading | gaming | television | sun (on skin) | sport | biking (20m+),4
+2020-06-10,meh+,workplace work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | television | sport | biking (20m+),3.5
+2020-06-09,good,workplace work | people (1h+) | friends | cook (no microw) | reading | gaming | sport | biking (20m+),4
+2020-06-08,good+,workplace work | people (1h+) | friends | cook (no microw) | gaming | walking (30m+) | sport | biking (20m+),4.5
+2020-06-07,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | television | walking (30m+) | biking (20m+),4.5
+2020-06-06,good+,personal work | people (1h+) | friends | cook (no microw) | reading | television | sun (on skin) | sport | biking (20m+),4.5
+2020-06-05,meh+,workplace work | personal work | shopping (courses) | reading | films | television | sport,3.5
+2020-06-04,good,workplace work | people (1h+) | cook (no microw) | reading | gaming | films | television | walking (30m+) | biking (20m+),4
+2020-06-03,good,workplace work | people (1h+) | friends | cook (no microw) | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-06-02,good,workplace work | personal work | shopping (courses) | cook (no microw) | reading | television | daysleep | sun (on skin) | sport,4
+2020-06-01,good+,workplace work | people (1h+) | shopping (courses) | cook (no microw) | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-05-31,good,workplace work | personal work | people (1h+) | friends | cook (no microw) | reading | television | laundry | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-05-30,rad,people (1h+) | friends | shopping (courses) | cook (no microw) | television | sun (on skin) | walking (30m+) | biking (20m+),5
+2020-05-29,good+,workplace work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | reading | television | sun (on skin) | walking (30m+) | sport,4.5
+2020-05-28,good+,workplace work | people (1h+) | friends | eating out | shopping (courses) | cook (no microw) | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-05-27,good,workplace work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | films | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-05-26,good,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | films | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-05-25,good,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | television | sun (on skin) | walking (30m+) | sport | volley,4
+2020-05-24,good+,workplace work | personal work | people (1h+) | friends | cook (no microw) | reading | television | daysleep | sun (on skin) | walking (30m+) | biking (20m+),4.5
+2020-05-23,rad,workplace work | people (1h+) | friends | shopping (courses) | sun (on skin) | walking (30m+) | sport | biking (20m+),5
+2020-05-22,rad,workplace work | people (1h+) | friends | eating out | sun (on skin) | walking (30m+) | biking (20m+),5
+2020-05-21,rad,workplace work | personal work | people (1h+) | friends | date (+time spent) | eating out | shopping (courses) | television | laundry | sun (on skin) | walking (30m+) | sport | biking (20m+),5
+2020-05-20,good,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | television | sun (on skin) | walking (30m+) | sport,4
+2020-05-19,good+,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | television | sun (on skin) | walking (30m+) | sport | volley,4.5
+2020-05-18,good+,workplace work | personal work | people (1h+) | friends | eating out | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-05-17,rad,personal work | people (1h+) | friends | touch | cook (no microw) | television | sun (on skin) | walking (30m+) | biking (20m+),5
+2020-05-16,rad,personal work | people (1h+) | friends | cook (no microw) | reading | sun (on skin) | walking (30m+),5
+2020-05-15,good+,personal work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | reading | sun (on skin) | sport | biking (20m+),4.5
+2020-05-14,meh+,personal work | people (1h+) | friends | cook (no microw) | reading | films | television | sun (on skin) | walking (30m+) | sport,3.5
+2020-05-13,good+,personal work | people (1h+) | friends | eating out | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-05-12,good+,personal work | people (1h+) | friends | eating out | cook (no microw) | reading | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-05-11,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | films | laundry | sun (on skin) | walking (30m+),4.5
+2020-05-10,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | television | daysleep | sun (on skin) | walking (30m+) | biking (20m+),4.5
+2020-05-09,rad,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | films | television | sun (on skin) | walking (30m+) | sport | biking (20m+),5
+2020-05-08,rad,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | television | drums (GH included) | sun (on skin) | walking (30m+) | sport | biking (20m+),5
+2020-05-07,good+,personal work | people (1h+) | friends | cook (no microw) | reading | gaming | drums (GH included) | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-05-06,meh+,personal work | shopping (courses) | cook (no microw) | reading | gaming | television | drums (GH included) | sun (on skin) | walking (30m+) | sport,3.5
+2020-05-05,meh+,personal work | people (1h+) | friends | cook (no microw) | reading | gaming | television | drums (GH included) | walking (30m+) | sport,3.5
+2020-05-04,rad,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | television | drums (GH included) | sun (on skin) | sport | biking (20m+),5
+2020-05-03,good,personal work | people (1h+) | friends | cook (no microw) | reading | gaming | drums (GH included) | sun (on skin) | walking (30m+) | sport,4
+2020-05-02,good,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | films | drums (GH included) | sun (on skin) | walking (30m+) | sport,4
+2020-05-01,good,personal work | people (1h+) | friends | cook (no microw) | gaming | films | drums (GH included) | sun (on skin) | walking (30m+) | sport,4
+2020-04-30,good,personal work | people (1h+) | cook (no microw) | reading | gaming | television | walking (30m+) | sport,4
+2020-04-29,meh+,personal work | cook (no microw) | reading | gaming | films | laundry | walking (30m+) | sport,3.5
+2020-04-28,meh+,personal work | people (1h+) | shopping (courses) | cook (no microw) | reading | gaming | films | television | daysleep | walking (30m+) | sport,3.5
+2020-04-27,rad,personal work | people (1h+) | friends | party/bar | shopping (courses) | television | drums (GH included) | sun (on skin) | walking (30m+) | sport,5
+2020-04-26,rad,personal work | people (1h+) | friends | cook (no microw) | reading | television | sun (on skin) | walking (30m+) | sport,5
+2020-04-25,good+,personal work | people (1h+) | friends | cook (no microw) | television | sun (on skin) | walking (30m+) | sport,4.5
+2020-04-24,good,personal work | reading | gaming | television | sun (on skin) | walking (30m+) | sport,4
+2020-04-23,good+,personal work | people (1h+) | friends | cook (no microw) | reading | gaming | films | television | sun (on skin) | walking (30m+) | sport,4.5
+2020-04-22,good+,personal work | people (1h+) | friends | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-04-21,meh+,personal work | shopping (courses) | cook (no microw) | gaming | films | sun (on skin) | walking (30m+) | sport,3.5
+2020-04-20,good+,personal work | cook (no microw) | reading | gaming | films | sun (on skin) | walking (30m+) | sport,4.5
+2020-04-19,rad,personal work | people (1h+) | friends | party/bar | cook (no microw) | gaming | films | television | walking (30m+),5
+2020-04-18,good,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | films | sun (on skin) | walking (30m+) | sport,4
+2020-04-17,rad,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | television | sun (on skin) | walking (30m+) | sport,5
+2020-04-16,good,personal work | people (1h+) | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport,4
+2020-04-15,good+,personal work | people (1h+) | reading | gaming | films | cleaning | sun (on skin) | walking (30m+) | sport,4.5
+2020-04-14,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | television | cleaning | sun (on skin) | sport | biking (20m+),4.5
+2020-04-13,meh+,personal work | cook (no microw) | reading | gaming | films | television | sun (on skin) | walking (30m+) | sport,3.5
+2020-04-12,meh+,personal work | shopping (courses) | cook (no microw) | gaming | television | laundry | sun (on skin) | walking (30m+) | sport,3.5
+2020-04-11,rad,personal work | people (1h+) | friends | cook (no microw) | reading | sun (on skin) | sport,5
+2020-04-10,rad,personal work | people (1h+) | friends | shopping (courses) | gaming | sun (on skin) | walking (30m+) | sport,5
+2020-04-09,good+,personal work | people (1h+) | friends | cook (no microw) | reading | gaming | sun (on skin) | walking (30m+) | sport,4.5
+2020-04-08,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | films | 4pda/search | sun (on skin) | walking (30m+) | sport,4.5
+2020-04-07,rad,personal work | people (1h+) | friends | cook (no microw) | reading | gaming | television | sun (on skin) | walking (30m+) | sport,5
+2020-04-06,good+,personal work | shopping (courses) | cook (no microw) | gaming | films | walking (30m+) | sport,4.5
+2020-04-05,good+,personal work | people (1h+) | friends | cook (no microw) | gaming | films | sun (on skin),4.5
+2020-04-04,good+,personal work | people (1h+) | cook (no microw) | reading | gaming | films | sun (on skin) | walking (30m+) | sport,4.5
+2020-04-03,good,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming | films | 4pda/search | walking (30m+) | sport,4
+2020-04-02,good,personal work | cook (no microw) | reading | gaming | films | walking (30m+) | sport,4
+2020-04-01,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | films | sun (on skin) | walking (30m+) | sport,4.5
+2020-03-31,good,personal work | shopping (courses) | cook (no microw) | reading | gaming | films | sun (on skin) | walking (30m+) | sport,4
+2020-03-30,good+,personal work | people (1h+) | friends | eating out | shopping (courses) | cook (no microw) | gaming | sun (on skin) | walking (30m+) | sport | biking (20m+),4.5
+2020-03-29,good,personal work | people (1h+) | cook (no microw) | gaming | films | walking (30m+) | sport,4
+2020-03-28,good+,personal work | people (1h+) | friends | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport,4.5
+2020-03-27,meh+,personal work | reading | gaming | films | television | sun (on skin) | walking (30m+) | sport,3.5
+2020-03-26,good,personal work | people (1h+) | shopping (courses) | cook (no microw) | gaming | television | sun (on skin) | maladie | walking (30m+),4
+2020-03-25,good+,personal work | people (1h+) | reading | gaming | television | daysleep | sun (on skin) | walking (30m+) | sport,4.5
+2020-03-24,meh+,personal work | cook (no microw) | reading | gaming | films | television | sun (on skin) | walking (30m+) | sport,3.5
+2020-03-23,meh+,personal work | shopping (courses) | reading | gaming | films | television | sun (on skin) | walking (30m+) | sport | biking (20m+),3.5
+2020-03-22,meh+,personal work | cook (no microw) | reading | gaming | films | television | sport | biking (20m+),3.5
+2020-03-21,good,personal work | shopping (courses) | cook (no microw) | reading | gaming | films | television | walking (30m+) | sport,4
+2020-03-20,meh+,personal work | gaming | films | sun (on skin) | sport,3.5
+2020-03-19,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | films | television | sun (on skin) | walking (30m+) | sport,4.5
+2020-03-18,good,personal work | people (1h+) | friends | cook (no microw) | television | sun (on skin) | walking (30m+) | sport | biking (20m+),4
+2020-03-17,rad,personal work | people (1h+) | friends | eating out | reading | travel | sun (on skin) | walking (30m+),5
+2020-03-16,good,people (1h+) | friends | eating out | shopping (courses) | gaming | travel | sun (on skin) | walking (30m+),4
+2020-03-15,good,personal work | people (1h+) | friends | eating out | gaming | television | travel | walking (30m+),4
+2020-03-14,good,people (1h+) | friends | eating out | travel | walking (30m+),4
+2020-03-13,good+,people (1h+) | friends | eating out | shopping (courses) | reading | travel | sun (on skin) | walking (30m+) | biking (20m+),4.5
+2020-03-12,good+,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,4.5
+2020-03-11,good,personal work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | gaming | television | biking (20m+),4
+2020-03-10,good,personal work | people (1h+) | friends | eating out | shopping (courses) | gaming | films | television | cleaning | walking (30m+) | biking (20m+),4
+2020-03-09,meh+,people (1h+) | party/bar | shopping (courses) | cook (no microw) | gaming | sun (on skin) | stress ventre | biking (20m+),3.5
+2020-03-08,good+,personal work | people (1h+) | friends | party/bar | eating out | gaming | television | daysleep | travel,4.5
+2020-03-07,good,personal work | people (1h+) | friends | party/bar | eating out | reading | films | travel | sun (on skin) | walking (30m+),4
+2020-03-06,good,personal work | people (1h+) | friends | party/bar | reading | gaming | stress ventre | walking (30m+) | biking (20m+),4
+2020-03-05,meh,personal work | people (1h+) | friends | party/bar | eating out | shopping (courses) | reading | gaming | television | stress ventre | walking (30m+),3
+2020-03-04,good+,personal work | people (1h+) | friends | eating out | shopping (courses) | 4pda/search | stress ventre | walking (30m+) | biking (20m+),4.5
+2020-03-03,good+,personal work | people (1h+) | friends | date (+time spent) | eating out | shopping (courses) | reading | daysleep | sun (on skin) | walking (30m+) | sport | biking (20m+) | volley,4.5
+2020-03-02,meh,personal work | eating out | reading | travel | walking (30m+),3
+2020-03-01,good,shopping (courses) | cook (no microw) | gaming | television | travel | walking (30m+),4
+2020-02-29,good,shopping (courses) | gaming | television | travel | walking (30m+),4
+2020-02-28,good,reading | gaming | travel | walking (30m+),4
+2020-02-27,good,personal work | people (1h+) | friends | party/bar | shopping (courses) | gaming,4
+2020-02-26,good,personal work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | gaming | television | sun (on skin) | walking (30m+) | biking (20m+),4
+2020-02-25,good,personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | television | walking (30m+),4
+2020-02-24,meh,personal work | gaming | sport | biking (20m+) | volley,3
+2020-02-23,meh+,personal work | people (1h+) | friends | party/bar | shopping (courses) | films | television | drums (GH included) | laundry | 4pda/search | daysleep | biking (20m+),3.5
+2020-02-22,meh+,people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | gaming | television | walking (30m+) | biking (20m+),3.5
+2020-02-21,good,personal work | people (1h+) | friends | eating out | shopping (courses) | gaming | travel | walking (30m+),4
+2020-02-20,good,personal work | people (1h+) | friends | party/bar | cook (no microw) | reading | gaming | travel | walking (30m+) | biking (20m+),4
+2020-02-19,good+,personal work | people (1h+) | friends | party/bar | eating out | gaming | shopping (big) | daysleep,4.5
+2020-02-18,good+,personal work | people (1h+) | friends | eating out | cook (no microw) | reading | daysleep | sun (on skin) | walking (30m+),4.5
+2020-02-17,meh+,personal work | people (1h+) | party/bar | eating out | reading | daysleep | sun (on skin) | walking (30m+) | biking (20m+),3.5
+2020-02-16,good+,personal work | people (1h+) | friends | party/bar | eating out | gaming | drums (GH included) | walking (30m+) | biking (20m+),4.5
+2020-02-15,good+,personal work | people (1h+) | friends | date (+time spent) | touch | eating out | gaming | travel | walking (30m+) | biking (20m+),4.5
+2020-02-14,rad,personal work | people (1h+) | date (+time spent) | touch | gaming | cleaning | walking (30m+) | biking (20m+),5
+2020-02-13,good,personal work | people (1h+) | party/bar | eating out | cook (no microw) | gaming | walking (30m+),4
+2020-02-12,meh+,personal work | people (1h+) | friends | eating out | gaming | television | walking (30m+) | biking (20m+),3.5
+2020-02-11,good,personal work | people (1h+) | friends | shopping (courses) | reading | gaming | walking (30m+) | sport | volley,4
+2020-02-10,good,personal work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | reading | gaming | sun (on skin) | biking (20m+),4
+2020-02-09,good,personal work | people (1h+) | friends | party/bar | eating out | cook (no microw) | reading | gaming | television | drums (GH included) | laundry | daysleep | stress ventre,4
+2020-02-08,good,personal work | people (1h+) | friends | party/bar | date (+time spent) | touch | eating out | gaming | stress ventre | walking (30m+) | biking (20m+),4
+2020-02-07,good,personal work | people (1h+) | friends | party/bar | eating out | shopping (courses) | gaming | walking (30m+) | biking (20m+),4
+2020-02-06,good,personal work | people (1h+) | friends | party/bar | shopping (courses) | gaming | sun (on skin) | walking (30m+) | biking (20m+),4
+2020-02-05,good+,personal work | people (1h+) | party/bar | reading | walking (30m+),4.5
+2020-02-04,good+,personal work | people (1h+) | date (+time spent) | touch | eating out | cook (no microw) | reading | gaming | walking (30m+),4.5
+2020-02-03,good,workplace work | personal work | people (1h+) | party/bar | reading | stress ventre | walking (30m+) | biking (20m+),4
+2020-02-02,rad,personal work | people (1h+) | friends | party/bar | eating out | gaming | drums (GH included) | stress ventre | walking (30m+) | biking (20m+),5
+2020-02-01,good,people (1h+) | friends | party/bar | touch | reading | gaming | television | daysleep | walking (30m+) | biking (20m+),4
+2020-01-31,good,personal work | people (1h+) | party/bar | gaming | television | sun (on skin) | walking (30m+) | biking (20m+),4
+2020-01-30,meh+,workplace work | personal work | shopping (courses) | reading | gaming | television | daysleep | stress ventre,3.5
+2020-01-29,good,workplace work | personal work | people (1h+) | friends | date (+time spent) | touch | cook (no microw) | gaming | sun (on skin) | walking (30m+) | biking (20m+),4
+2020-01-28,good+,personal work | people (1h+) | party/bar | reading | walking (30m+),4.5
+2020-01-27,meh+,personal work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | reading | gaming | television | biking (20m+),3.5
+2020-01-26,rad,people (1h+) | friends | party/bar | eating out | shopping (courses) | reading | drums (GH included) | walking (30m+) | biking (20m+),5
+2020-01-25,meh+,people (1h+) | party/bar | reading | gaming | walking (30m+) | biking (20m+),3.5
+2020-01-24,meh+,workplace work | personal work | people (1h+) | friends | shopping (courses) | cook (no microw) | reading | gaming,3.5
+2020-01-23,good,workplace work | people (1h+) | friends | party/bar | reading | gaming | daysleep,4
+2020-01-22,good,workplace work | personal work | people (1h+) | friends | party/bar | shopping (courses) | reading | gaming | biking (20m+),4
+2020-01-21,good,workplace work | people (1h+) | party/bar | date (+time spent) | touch | cook (no microw) | reading | gaming | television,4
+2020-01-20,rad,workplace work | people (1h+) | friends | party/bar | shopping (courses) | cook (no microw) | reading | gaming | sport | biking (20m+) | volley,5
+2020-01-19,rad,personal work | people (1h+) | friends | party/bar | touch | eating out | reading | gaming | drums (GH included) | sun (on skin) | walking (30m+) | biking (20m+),5
+2020-01-18,good+,personal work | people (1h+) | friends | date (+time spent) | eating out | shopping (courses) | cook (no microw) | reading | gaming | television | sun (on skin) | walking (30m+),4.5
+2020-01-17,rad,workplace work | people (1h+) | shopping (courses) | reading | stress ventre | walking (30m+),5
+2020-01-16,meh+,workplace work | people (1h+) | friends | party/bar | reading | television | walking (30m+),3.5
+2020-01-15,good,workplace work | people (1h+) | party/bar | shopping (courses) | cook (no microw) | reading | gaming | television,4
+2020-01-14,good,workplace work | people (1h+) | friends | shopping (courses) | cook (no microw) | gaming | television | walking (30m+) | biking (20m+),4
+2020-01-13,good,workplace work | people (1h+) | party/bar | reading | gaming | television | stress ventre | walking (30m+) | biking (20m+),4
+2020-01-12,rad,personal work | people (1h+) | friends | party/bar | eating out | gaming | drums (GH included) | walking (30m+) | sport | biking (20m+),5
+2020-01-11,good+,people (1h+) | friends | party/bar | date (+time spent) | touch | shopping (courses) | daysleep | stress ventre,4.5
+2020-01-10,rad,workplace work | people (1h+) | friends | travel | sun (on skin) | walking (30m+),5
+2020-01-09,good,workplace work | people (1h+) | date (+time spent) | touch | shopping (courses) | reading | gaming | television | daysleep,4
+2020-01-08,meh+,workplace work | people (1h+) | party/bar | touch | eating out | reading | gaming | stress ventre,3.5
+2020-01-07,good,workplace work | personal work | people (1h+) | friends | party/bar | date (+time spent) | touch | shopping (courses) | reading | television | stress ventre | walking (30m+),4
+2020-01-06,good,workplace work | people (1h+) | cook (no microw) | reading | television | sport | volley,4
+2020-01-05,rad,people (1h+) | friends | party/bar | date (+time spent) | touch | eating out | shopping (courses) | drums (GH included) | shopping (big) | biking (20m+),5
+2020-01-04,good,personal work | people (1h+) | friends | eating out | cook (no microw) | films | daysleep | walking (30m+) | biking (20m+),4
+2020-01-03,bad,workplace work | cook (no microw) | reading | gaming | films,2
+2020-01-02,meh,workplace work | cook (no microw) | reading | gaming | television | daysleep,3
+2020-01-01,good,workplace work | people (1h+) | friends | cook (no microw) | reading | gaming | sport,4
+2019-12-31,rad,workplace work | people (1h+) | friends | party/bar | gaming | television | sun (on skin) | walking (30m+),5
+2019-12-30,meh,workplace work | cook (no microw) | reading | gaming | television | 4pda/search | walking (30m+) | italiano,3
+2019-12-29,rad,workplace work | people (1h+) | friends | party/bar | reading | gaming | walking (30m+),5
+2019-12-28,good,people (1h+) | friends | eating out | reading | gaming | television,4
+2019-12-27,good,people (1h+) | friends | party/bar | cook (no microw) | reading | gaming | television | cleaning | walking (30m+),4
+2019-12-26,good,workplace work | people (1h+) | friends | films | television,4
+2019-12-25,rad,people (1h+) | friends | cook (no microw) | gaming | films | daysleep | walking (30m+),5
+2019-12-24,rad,workplace work | people (1h+) | party/bar | cook (no microw) | reading | gaming | television | walking (30m+),5
+2019-12-23,good,workplace work | people (1h+) | party/bar | cook (no microw) | reading | gaming | television,4
+2019-12-22,good,workplace work | people (1h+) | party/bar | reading | gaming | television | laundry | italiano,4
+2019-12-21,meh,workplace work | people (1h+) | cook (no microw) | gaming | films | television | italiano,3
+2019-12-20,good,workplace work | people (1h+) | friends | party/bar | cook (no microw) | reading | gaming | television | italiano,4
+2019-12-19,good,workplace work | people (1h+) | date (+time spent) | touch | cook (no microw) | reading | gaming | television | stress ventre | walking (30m+),4
+2019-12-18,meh,workplace work | cook (no microw) | reading | films | television | walking (30m+),3
+2019-12-17,meh,workplace work | cook (no microw) | films | television | walking (30m+),3
+2019-12-16,meh,workplace work | people (1h+) | party/bar | cook (no microw) | gaming | television | walking (30m+),3
+2019-12-15,rad,workplace work | people (1h+) | friends | party/bar | eating out | gaming | laundry | walking (30m+),5
+2019-12-14,good,workplace work | people (1h+) | friends | party/bar | cook (no microw) | reading | gaming | television | walking (30m+),4
+2019-12-13,meh,workplace work | people (1h+) | friends | cook (no microw) | reading | gaming | films | television | sport | volley,3
+2019-12-12,meh,workplace work | people (1h+) | friends | cook (no microw) | reading | gaming | films | television | daysleep,3
+2019-12-11,good,workplace work | people (1h+) | friends | cook (no microw) | reading | gaming | television | walking (30m+) | italiano,4
+2019-12-10,meh,workplace work | people (1h+) | friends | reading | gaming | television | 4pda/search | walking (30m+),3
+2019-12-09,good,people (1h+) | friends | eating out | cook (no microw) | reading | television | sun (on skin) | walking (30m+) | sport | volley,4
+2019-12-08,meh,workplace work | films | television | daysleep | walking (30m+),3
+2019-12-07,good,people (1h+) | friends | eating out | laundry | 4pda/search | walking (30m+),4
+2019-12-06,good,workplace work | people (1h+) | friends | cook (no microw) | reading | gaming | 4pda/search | walking (30m+),4
+2019-12-05,good,workplace work | people (1h+) | friends | cook (no microw) | reading | television,4
+2019-12-04,good,workplace work | people (1h+) | party/bar | cook (no microw) | reading | television,4
+2019-12-03,meh,workplace work | people (1h+) | friends | reading | stress ventre | sport | volley,3
+2019-12-02,good,workplace work | people (1h+) | friends | party/bar | reading,4
+2019-12-01,rad,workplace work | people (1h+) | friends | party/bar | cook (no microw) | gaming | television | cleaning | walking (30m+),5
+2019-11-30,good,workplace work | people (1h+) | friends | gaming | television | travel | walking (30m+),4
+2019-11-29,good,workplace work | people (1h+) | friends | date (+time spent) | touch | reading | gaming | 4pda/search | walking (30m+),4
+2019-11-28,good,workplace work | people (1h+) | date (+time spent) | touch | reading | television,4
+2019-11-27,good,workplace work | people (1h+) | date (+time spent) | touch | reading | television | walking (30m+),4
+2019-11-26,good,workplace work | people (1h+) | date (+time spent) | touch | reading | television | 4pda/search | walking (30m+),4
+2019-11-25,rad,workplace work | people (1h+) | date (+time spent) | touch | reading | television | laundry | 4pda/search | sun (on skin) | walking (30m+) | sport | volley,5
+2019-11-24,good,workplace work | people (1h+) | date (+time spent) | touch | reading | films | television | 4pda/search | walking (30m+),4
+2019-11-23,meh,people (1h+) | friends | date (+time spent) | touch | television | walking (30m+),3
+2019-11-22,meh,workplace work | people (1h+) | friends | party/bar | date (+time spent) | touch | reading | television | 4pda/search | walking (30m+),3
+2019-11-21,good,workplace work | people (1h+) | touch | reading | television | 4pda/search | walking (30m+),4
+2019-11-20,meh,workplace work | people (1h+) | touch | reading | films | 4pda/search,3
+2019-11-19,good,workplace work | people (1h+) | friends | party/bar | touch | reading | gaming | television,4
+2019-11-18,good,workplace work | people (1h+) | friends | touch | reading | gaming | television | cleaning | laundry | sport | volley,4
+2019-11-17,rad,workplace work | people (1h+) | friends | reading | gaming | television | travel | sun (on skin) | walking (30m+),5
+2019-11-16,good,workplace work | people (1h+) | friends | reading | travel | walking (30m+),4
+2019-11-15,good,workplace work | people (1h+) | friends | television | travel | walking (30m+),4
+2019-11-14,good,workplace work | people (1h+) | friends | walking (30m+),4
+2019-11-13,good,workplace work | people (1h+) | friends | touch | reading | walking (30m+),4
+2019-11-12,good,workplace work | people (1h+) | date (+time spent) | touch | eating out | reading | television | walking (30m+),4
+2019-11-11,good,workplace work | people (1h+) | party/bar | date (+time spent) | touch | films | walking (30m+),4
+2019-11-10,meh,people (1h+) | date (+time spent) | touch | gaming | films | shopping (big) | walking (30m+),3
+2019-11-09,meh,people (1h+) | date (+time spent) | touch | films | travel | sun (on skin) | walking (30m+),3
+2019-11-08,meh,people (1h+) | date (+time spent) | touch | films | travel | sun (on skin) | walking (30m+),3
+2019-11-07,good,people (1h+) | date (+time spent) | touch | films | travel | sun (on skin) | walking (30m+),4
+2019-11-06,meh,people (1h+) | date (+time spent) | touch | films | travel | sun (on skin) | walking (30m+),3
+2019-11-05,good,workplace work | people (1h+) | date (+time spent) | touch | films | travel,4
+2019-11-04,good,people (1h+) | date (+time spent) | touch | eating out | films | travel | sun (on skin) | walking (30m+),4
+2019-11-03,rad,people (1h+) | date (+time spent) | touch | films | shopping (big) | daysleep | travel | walking (30m+),5
+2019-11-02,meh,workplace work | date (+time spent) | touch | reading | travel | walking (30m+),3
+2019-11-01,meh,workplace work | people (1h+) | friends | gaming | travel | stress ventre | walking (30m+),3
+2019-10-31,meh,workplace work | people (1h+) | friends | gaming | travel | italiano,3
+2019-10-30,meh,workplace work | people (1h+) | friends | gaming | travel,3
+2019-10-29,good,workplace work | people (1h+) | friends | gaming | daysleep | travel | sun (on skin) | walking (30m+) | sport,4
+2019-10-28,good,workplace work | people (1h+) | friends | party/bar | gaming | films | daysleep | travel | sun (on skin) | walking (30m+),4
+2019-10-27,rad,people (1h+) | friends | party/bar | daysleep | travel | walking (30m+),5
+2019-10-26,good,reading | gaming | walking (30m+) | italiano,4
+2019-10-25,rad,workplace work | people (1h+) | reading | television | walking (30m+),5
+2019-10-24,meh,workplace work | reading | gaming | television | sport,3
+2019-10-23,good,workplace work | reading | gaming | films | television | daysleep | italiano,4
+2019-10-22,good,workplace work | people (1h+) | friends | reading | gaming | television,4
+2019-10-21,good,workplace work | people (1h+) | friends | reading | gaming | television | walking (30m+) | italiano,4
+2019-10-20,good,workplace work | people (1h+) | friends | gaming | television | walking (30m+),4
+2019-10-19,good,workplace work | people (1h+) | friends | party/bar | gaming | television | walking (30m+),4
+2019-10-18,good,workplace work | people (1h+) | friends | reading | films | walking (30m+),4
+2019-10-17,meh,workplace work | films | television | shopping (big),3
+2019-10-16,good,workplace work | people (1h+) | friends | reading | gaming | television | daysleep,4
+2019-10-15,meh,workplace work | reading | gaming | television | walking (30m+),3
+2019-10-14,good,workplace work | people (1h+) | reading | television | sport,4
+2019-10-13,rad,workplace work | people (1h+) | television | daysleep | sun (on skin),5
+2019-10-12,rad,people (1h+) | friends | gaming | television | sun (on skin) | sport,5
+2019-10-11,good,workplace work | people (1h+) | friends | reading | gaming | daysleep | sun (on skin) | walking (30m+) | sport,4
+2019-10-10,good,workplace work | people (1h+) | party/bar | reading | gaming | television | daysleep,4
+2019-10-09,meh,workplace work | people (1h+) | party/bar | touch | reading | gaming | daysleep | sun (on skin) | walking (30m+),3
+2019-10-08,good,workplace work | people (1h+) | reading | gaming | television | walking (30m+),4
+2019-10-07,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | television | sun (on skin) | walking (30m+) | sport,4
+2019-10-06,good,workplace work | people (1h+) | date (+time spent) | touch | television | travel | walking (30m+),4
+2019-10-05,good,people (1h+) | date (+time spent) | touch | gaming | daysleep | walking (30m+),4
+2019-10-04,good,workplace work | people (1h+) | friends | date (+time spent) | touch | reading | television | daysleep,4
+2019-10-03,meh,workplace work | people (1h+) | friends | party/bar | reading | television | walking (30m+),3
+2019-10-02,meh,workplace work | people (1h+) | friends | reading | television | daysleep,3
+2019-10-01,good,workplace work | people (1h+) | reading | daysleep,4
+2019-09-30,meh,workplace work | people (1h+) | touch | reading | gaming | television | sport,3
+2019-09-29,good,workplace work | people (1h+) | friends | reading | gaming | television | daysleep | travel | walking (30m+),4
+2019-09-28,good,workplace work | people (1h+) | friends | party/bar | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-09-27,good,workplace work | people (1h+) | friends | reading | gaming | travel | walking (30m+),4
+2019-09-26,good,workplace work | gaming | television | cleaning | sun (on skin),4
+2019-09-25,good,workplace work | people (1h+) | gaming | films | daysleep | walking (30m+) | italiano,4
+2019-09-24,meh,workplace work | people (1h+) | friends | gaming | walking (30m+) | sport,3
+2019-09-23,meh,workplace work | people (1h+) | reading | gaming | films | television | sun (on skin),3
+2019-09-22,good,people (1h+) | date (+time spent) | touch | films | walking (30m+),4
+2019-09-21,good,people (1h+) | date (+time spent) | touch | films | television | daysleep | sun (on skin) | walking (30m+),4
+2019-09-20,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | sun (on skin) | walking (30m+) | sport,4
+2019-09-19,rad,workplace work | people (1h+) | friends | reading | gaming | television | daysleep | sun (on skin) | walking (30m+),5
+2019-09-18,good,workplace work | people (1h+) | friends | party/bar | gaming | sun (on skin),4
+2019-09-17,meh,workplace work | reading | gaming | films | television | sun (on skin) | walking (30m+) | sport,3
+2019-09-16,good,workplace work | people (1h+) | friends | reading | gaming | television | 4pda/search | sun (on skin) | walking (30m+) | sport | italiano,4
+2019-09-15,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+) | sport,4
+2019-09-14,meh,people (1h+) | date (+time spent) | touch | gaming | films | travel | sun (on skin) | stress ventre | walking (30m+) | sport,3
+2019-09-13,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | television | 4pda/search | daysleep | travel | sun (on skin),4
+2019-09-12,meh,workplace work | people (1h+) | friends | reading | television | 4pda/search | stress ventre | walking (30m+),3
+2019-09-11,good,workplace work | people (1h+) | reading | gaming | sun (on skin) | walking (30m+) | sport,4
+2019-09-10,rad,workplace work | people (1h+) | friends | reading | daysleep | walking (30m+) | sport,5
+2019-09-09,good,workplace work | people (1h+) | friends | party/bar | reading | gaming | 4pda/search | sun (on skin) | walking (30m+) | italiano,4
+2019-09-08,good,workplace work | people (1h+) | friends | party/bar | gaming | sun (on skin) | walking (30m+) | italiano,4
+2019-09-07,good,workplace work | people (1h+) | friends | party/bar | gaming | 4pda/search | walking (30m+),4
+2019-09-06,good,workplace work | people (1h+) | friends | party/bar | reading | gaming | sun (on skin) | walking (30m+) | italiano,4
+2019-09-05,meh,workplace work | people (1h+) | reading | gaming | walking (30m+),3
+2019-09-04,meh,workplace work | people (1h+) | reading | daysleep | sun (on skin) | walking (30m+) | italiano,3
+2019-09-03,good,workplace work | people (1h+) | friends | eating out | reading | daysleep | sun (on skin),4
+2019-09-02,good,workplace work | people (1h+) | friends | reading | gaming | sun (on skin) | walking (30m+) | italiano,4
+2019-09-01,meh,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+),3
+2019-08-31,meh,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+),3
+2019-08-30,meh,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+),3
+2019-08-29,good,workplace work | people (1h+) | reading | gaming | sun (on skin) | walking (30m+) | sport,4
+2019-08-28,good,workplace work | people (1h+) | friends | reading | gaming | television | sun (on skin) | walking (30m+) | italiano,4
+2019-08-27,rad,workplace work | people (1h+) | friends | reading | television | sun (on skin) | walking (30m+) | italiano,5
+2019-08-26,good,workplace work | people (1h+) | friends | touch | reading | gaming | sun (on skin) | walking (30m+),4
+2019-08-25,good,workplace work | people (1h+) | friends | gaming | television | daysleep | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-08-24,rad,workplace work | people (1h+) | friends | touch | gaming | travel | sun (on skin) | walking (30m+),5
+2019-08-23,rad,workplace work | people (1h+) | friends | touch | reading | gaming | sun (on skin) | walking (30m+),5
+2019-08-22,good,workplace work | people (1h+) | friends | gaming | sun (on skin) | walking (30m+),4
+2019-08-21,good,workplace work | people (1h+) | friends | gaming | sun (on skin) | walking (30m+),4
+2019-08-20,good,workplace work | people (1h+) | friends | gaming | sun (on skin) | walking (30m+),4
+2019-08-19,good,workplace work | people (1h+) | friends | reading | walking (30m+),4
+2019-08-18,rad,people (1h+) | date (+time spent) | touch | gaming | television | daysleep | travel | walking (30m+),5
+2019-08-17,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | films | travel | walking (30m+),4
+2019-08-16,good,people (1h+) | date (+time spent) | touch | gaming | travel | walking (30m+),4
+2019-08-15,meh,workplace work | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+),3
+2019-08-14,meh,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | sun (on skin),3
+2019-08-13,good,workplace work | people (1h+) | friends | reading | gaming | walking (30m+) | sport | italiano,4
+2019-08-12,good,workplace work | people (1h+) | reading | gaming | sun (on skin) | sport | italiano,4
+2019-08-11,rad,workplace work | people (1h+) | date (+time spent) | touch | gaming | films | walking (30m+) | sport,5
+2019-08-10,good,people (1h+) | date (+time spent) | touch | gaming | films | shopping (big) | 4pda/search | sun (on skin) | walking (30m+) | italiano,4
+2019-08-09,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | television | walking (30m+) | italiano,4
+2019-08-08,meh,workplace work | people (1h+) | reading | gaming | 4pda/search | sun (on skin) | walking (30m+) | italiano,3
+2019-08-07,meh,workplace work | people (1h+) | friends | touch | reading | walking (30m+) | italiano,3
+2019-08-06,meh,workplace work | people (1h+) | friends | gaming | films | daysleep | sport,3
+2019-08-05,meh,workplace work | people (1h+) | friends | reading | gaming | films | sun (on skin) | walking (30m+) | sport,3
+2019-08-04,good,workplace work | people (1h+) | gaming | films | sun (on skin) | sport | italiano,4
+2019-08-03,rad,workplace work | people (1h+) | friends | reading | sun (on skin) | walking (30m+) | sport,5
+2019-08-02,good,workplace work | people (1h+) | friends | reading | gaming | films | shopping (big) | italiano,4
+2019-08-01,good,workplace work | people (1h+) | friends | reading | gaming | sun (on skin) | walking (30m+) | italiano,4
+2019-07-31,good,workplace work | people (1h+) | friends | touch | gaming | sun (on skin) | stress ventre | walking (30m+),4
+2019-07-30,good,people (1h+) | date (+time spent) | touch | reading | gaming | travel | sun (on skin) | walking (30m+),4
+2019-07-29,rad,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+),5
+2019-07-28,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-07-27,meh,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+) | italiano,3
+2019-07-26,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | travel | sun (on skin) | walking (30m+) | sport | italiano,4
+2019-07-25,good,people (1h+) | date (+time spent) | touch | gaming | films | travel | sun (on skin) | walking (30m+) | sport,4
+2019-07-24,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | daysleep | travel | sun (on skin) | walking (30m+) | sport,4
+2019-07-23,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+),4
+2019-07-22,good,workplace work | people (1h+) | friends | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+) | sport | italiano,4
+2019-07-21,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+),5
+2019-07-20,meh,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+) | sport | italiano,3
+2019-07-19,rad,workplace work | people (1h+) | date (+time spent) | touch | gaming | films | travel | sun (on skin) | walking (30m+) | sport | italiano,5
+2019-07-18,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | films | daysleep | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-07-17,good,workplace work | people (1h+) | date (+time spent) | touch | daysleep | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-07-16,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-07-15,good,workplace work | people (1h+) | friends | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-07-14,rad,people (1h+) | friends | date (+time spent) | touch | daysleep | sun (on skin) | walking (30m+),5
+2019-07-13,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | films | daysleep | sun (on skin) | walking (30m+) | sport,4
+2019-07-12,good,workplace work | people (1h+) | reading | gaming | daysleep | sun (on skin) | walking (30m+) | sport | italiano,4
+2019-07-11,meh,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | sun (on skin) | stress ventre | italiano,3
+2019-07-10,good,workplace work | people (1h+) | friends | party/bar | reading | gaming | sun (on skin) | stress ventre | walking (30m+) | italiano,4
+2019-07-09,good,workplace work | people (1h+) | reading | gaming | sun (on skin) | walking (30m+) | italiano,4
+2019-07-08,good,workplace work | people (1h+) | touch | reading | gaming | sun (on skin) | walking (30m+) | italiano,4
+2019-07-07,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | films | walking (30m+) | italiano,5
+2019-07-06,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | travel | sun (on skin) | walking (30m+),5
+2019-07-05,good,workplace work | people (1h+) | friends | party/bar | date (+time spent) | touch | gaming | sun (on skin) | stress ventre | walking (30m+) | italiano,4
+2019-07-04,good,workplace work | people (1h+) | date (+time spent) | touch | reading | films | walking (30m+) | italiano,4
+2019-07-03,meh,workplace work | people (1h+) | date (+time spent) | touch | reading | television | sun (on skin) | walking (30m+) | sport | italiano,3
+2019-07-02,meh,workplace work | people (1h+) | gaming | television | sun (on skin) | italiano,3
+2019-07-01,rad,workplace work | people (1h+) | friends | party/bar | gaming | sun (on skin) | walking (30m+) | italiano,5
+2019-06-30,good,people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-06-29,rad,workplace work | people (1h+) | friends | party/bar | date (+time spent) | touch | sun (on skin) | walking (30m+) | italiano | visualize,5
+2019-06-28,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | gaming | sun (on skin) | walking (30m+) | sport | italiano | visualize,5
+2019-06-27,good,workplace work | people (1h+) | friends | date (+time spent) | touch | gaming | sun (on skin) | walking (30m+) | sport | italiano,4
+2019-06-26,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | films | sun (on skin) | walking (30m+) | italiano,4
+2019-06-25,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | television | sun (on skin) | italiano | visualize,4
+2019-06-24,good,workplace work | people (1h+) | party/bar | date (+time spent) | touch | reading | gaming | sun (on skin) | walking (30m+) | italiano,4
+2019-06-23,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | films | television | travel | sun (on skin) | walking (30m+) | relax | italiano,4
+2019-06-22,good,people (1h+) | date (+time spent) | touch | films | television | sun (on skin) | walking (30m+) | italiano,4
+2019-06-21,good,workplace work | people (1h+) | friends | date (+time spent) | touch | gaming | sun (on skin) | stress ventre | walking (30m+) | italiano,4
+2019-06-20,meh,workplace work | people (1h+) | friends | touch | gaming | sun (on skin) | walking (30m+) | sport | italiano,3
+2019-06-19,good,workplace work | people (1h+) | date (+time spent) | touch | films | sun (on skin) | stress ventre | walking (30m+) | italiano,4
+2019-06-18,meh,workplace work | people (1h+) | touch | gaming | films | television | sun (on skin) | walking (30m+) | italiano | visualize,3
+2019-06-17,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | sun (on skin) | italiano,4
+2019-06-16,rad,workplace work | people (1h+) | friends | gaming | sun (on skin) | walking (30m+) | sport | italiano | visualize,5
+2019-06-15,rad,workplace work | people (1h+) | friends | party/bar | reading | gaming | daysleep | walking (30m+) | italiano | visualize,5
+2019-06-14,meh,workplace work | people (1h+) | friends | gaming | television | walking (30m+) | italiano,3
+2019-06-13,meh,workplace work | people (1h+) | gaming | sport | italiano | visualize,3
+2019-06-12,meh,workplace work | people (1h+) | reading | gaming | television | italiano,3
+2019-06-11,good,workplace work | people (1h+) | gaming | walking (30m+) | italiano | visualize,4
+2019-06-10,good,workplace work | people (1h+) | party/bar | reading | italiano | visualize,4
+2019-06-09,meh,workplace work | people (1h+) | date (+time spent) | films | television | daysleep | italiano,3
+2019-06-08,good,people (1h+) | party/bar | sun (on skin) | walking (30m+) | relax | italiano | visualize,4
+2019-06-07,good,workplace work | people (1h+) | friends | reading | gaming | daysleep | italiano | visualize,4
+2019-06-06,good,workplace work | people (1h+) | touch | reading | gaming | films | television | italiano | visualize,4
+2019-06-05,meh,workplace work | people (1h+) | friends | date (+time spent) | touch | reading | gaming | stress ventre | italiano,3
+2019-06-04,good,workplace work | people (1h+) | friends | party/bar | reading | gaming | daysleep | italiano | visualize,4
+2019-06-03,meh,workplace work | people (1h+) | party/bar | date (+time spent) | touch | reading | films | cleaning | stress ventre | italiano,3
+2019-06-02,good,people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-06-01,rad,people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,5
+2019-05-31,meh,people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,3
+2019-05-30,good,people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-05-29,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | films | television | sun (on skin) | italiano,4
+2019-05-28,meh,workplace work | people (1h+) | reading | gaming | italiano | visualize,3
+2019-05-27,meh,workplace work | people (1h+) | reading | gaming | television | italiano | visualize,3
+2019-05-26,good,workplace work | people (1h+) | gaming | television | sun (on skin) | walking (30m+) | sport | italiano | visualize,4
+2019-05-25,rad,workplace work | people (1h+) | date (+time spent) | gaming | television | daysleep | sun (on skin) | walking (30m+) | relax | italiano | visualize,5
+2019-05-24,good,workplace work | people (1h+) | reading | gaming | italiano | visualize,4
+2019-05-23,good,workplace work | people (1h+) | reading | gaming | daysleep | italiano | visualize,4
+2019-05-22,good,workplace work | people (1h+) | date (+time spent) | touch | reading | walking (30m+) | italiano,4
+2019-05-21,meh,workplace work | reading | gaming | walking (30m+) | italiano | visualize,3
+2019-05-20,meh,workplace work | people (1h+) | party/bar | reading | gaming | italiano | visualize,3
+2019-05-19,rad,people (1h+) | date (+time spent) | touch | walking (30m+) | relax | italiano,5
+2019-05-18,good,people (1h+) | party/bar | walking (30m+) | sport | italiano | visualize,4
+2019-05-17,meh,workplace work | people (1h+) | friends | eating out | reading | gaming | walking (30m+) | italiano | visualize,3
+2019-05-16,rad,people (1h+) | walking (30m+) | italiano | visualize,5
+2019-05-15,good,workplace work | people (1h+) | friends | reading | walking (30m+) | italiano | visualize,4
+2019-05-14,meh,workplace work | people (1h+) | date (+time spent) | reading | gaming | sun (on skin) | walking (30m+) | italiano | visualize,3
+2019-05-13,good,workplace work | people (1h+) | friends | party/bar | reading | gaming | sun (on skin) | italiano | visualize,4
+2019-05-12,rad,people (1h+) | date (+time spent) | touch | films | sun (on skin) | walking (30m+) | relax | italiano,5
+2019-05-11,good,people (1h+) | date (+time spent) | touch | walking (30m+) | relax | italiano,4
+2019-05-10,bad,workplace work | gaming | travel | italiano,2
+2019-05-09,meh,people (1h+) | friends | date (+time spent) | touch | reading | gaming | travel | sun (on skin) | walking (30m+) | italiano,3
+2019-05-08,good,people (1h+) | friends | gaming | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-05-07,good,workplace work | people (1h+) | friends | gaming | television | travel | walking (30m+) | italiano,4
+2019-05-06,good,people (1h+) | friends | reading | travel | stress ventre | walking (30m+) | italiano,4
+2019-05-05,good,people (1h+) | friends | date (+time spent) | touch | reading | travel | stress ventre | walking (30m+) | italiano,4
+2019-05-04,good,people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-05-03,rad,people (1h+) | date (+time spent) | touch | travel | walking (30m+) | relax | italiano,5
+2019-05-02,rad,people (1h+) | date (+time spent) | touch | travel | walking (30m+) | italiano,5
+2019-05-02,good,people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-05-01,meh,people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | italiano,3
+2019-04-30,good,workplace work | people (1h+) | date (+time spent) | touch | travel | sun (on skin) | walking (30m+) | relax | italiano,4
+2019-04-29,good,workplace work | people (1h+) | date (+time spent) | touch | travel | walking (30m+) | italiano,4
+2019-04-28,good,people (1h+) | date (+time spent) | touch | gaming | travel | sun (on skin) | walking (30m+) | italiano,4
+2019-04-27,rad,workplace work | people (1h+) | friends | party/bar | date (+time spent) | touch | reading | sun (on skin) | walking (30m+) | italiano,5
+2019-04-26,bad,workplace work | people (1h+) | friends | reading | television | sun (on skin) | stress ventre | walking (30m+) | italiano,2
+2019-04-25,meh,workplace work | people (1h+) | reading | television | stress ventre | sport | italiano | visualize,3
+2019-04-24,meh,workplace work | people (1h+) | date (+time spent) | reading | gaming | sun (on skin) | stress ventre | walking (30m+) | italiano | visualize,3
+2019-04-23,good,workplace work | people (1h+) | reading | italiano | visualize,4
+2019-04-22,rad,people (1h+) | friends | date (+time spent) | touch | travel | walking (30m+) | italiano,5
+2019-04-21,meh,people (1h+) | friends | travel | walking (30m+) | italiano,3
+2019-04-20,good,people (1h+) | friends | travel | sun (on skin) | stress ventre | walking (30m+) | italiano,4
+2019-04-19,good,workplace work | people (1h+) | friends | party/bar | reading | travel | stress ventre | walking (30m+) | italiano,4
+2019-04-18,good,workplace work | people (1h+) | reading | sport | italiano | visualize,4
+2019-04-17,good,workplace work | people (1h+) | date (+time spent) | reading | television | italiano | visualize,4
+2019-04-16,good,workplace work | people (1h+) | date (+time spent) | touch | reading | films | italiano | visualize,4
+2019-04-15,good,workplace work | people (1h+) | touch | reading | gaming | television | walking (30m+) | italiano,4
+2019-04-14,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | gaming | sun (on skin) | walking (30m+) | sport | italiano | visualize,5
+2019-04-13,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | sun (on skin) | italiano,5
+2019-04-12,good,workplace work | people (1h+) | friends | reading | gaming | sun (on skin) | italiano | visualize,4
+2019-04-11,good,people (1h+) | touch | reading | gaming | television | sun (on skin) | sport | italiano | visualize,4
+2019-04-10,meh,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | walking (30m+) | italiano,3
+2019-04-09,meh,workplace work | people (1h+) | touch | italiano | visualize,3
+2019-04-08,meh,workplace work | people (1h+) | party/bar | reading | gaming | italiano | visualize,3
+2019-04-07,good,workplace work | people (1h+) | gaming | sport | italiano | visualize,4
+2019-04-06,good,people (1h+) | friends | party/bar | gaming | sun (on skin) | italiano | visualize,4
+2019-04-05,good,workplace work | people (1h+) | party/bar | reading | gaming | italiano | visualize,4
+2019-04-04,meh,workplace work | people (1h+) | reading | sport | italiano | visualize,3
+2019-04-03,good,workplace work | people (1h+) | friends | gaming | television | italiano | visualize,4
+2019-04-02,meh,workplace work | people (1h+) | television | italiano | visualize,3
+2019-04-01,good,workplace work | people (1h+) | gaming | television | sun (on skin) | italiano | visualize,4
+2019-03-31,rad,people (1h+) | friends | date (+time spent) | touch | films | travel | sun (on skin) | walking (30m+) | italiano,5
+2019-03-30,good,workplace work | people (1h+) | friends | date (+time spent) | touch | films | sun (on skin) | sport | italiano,4
+2019-03-29,good,people (1h+) | friends | reading | sun (on skin) | italiano | visualize,4
+2019-03-28,good,workplace work | people (1h+) | date (+time spent) | touch | reading | television | sport | italiano | visualize,4
+2019-03-27,good,workplace work | people (1h+) | date (+time spent) | touch | reading | sun (on skin) | walking (30m+) | relax | italiano,4
+2019-03-26,good,workplace work | people (1h+) | date (+time spent) | touch | reading | walking (30m+) | sport,4
+2019-03-25,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | reading | gaming | television | sun (on skin) | visualize,5
+2019-03-24,rad,workplace work | people (1h+) | reading | television | sun (on skin) | walking (30m+) | relax | visualize,5
+2019-03-23,good,workplace work | people (1h+) | party/bar | television | shopping (big) | walking (30m+) | visualize,4
+2019-03-22,rad,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | television | sun (on skin) | walking (30m+) | relax | visualize,5
+2019-03-21,good,workplace work | people (1h+) | date (+time spent) | touch | reading | sun (on skin),4
+2019-03-20,good,workplace work | people (1h+) | date (+time spent) | touch | visualize,4
+2019-03-19,good,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | sun (on skin),4
+2019-03-18,meh,workplace work | people (1h+) | friends | reading | gaming | television | visualize,3
+2019-03-17,rad,workplace work | people (1h+) | date (+time spent) | touch | gaming | walking (30m+) | visualize,5
+2019-03-16,rad,workplace work | people (1h+) | date (+time spent) | touch | gaming | sun (on skin) | walking (30m+) | visualize,5
+2019-03-15,bad,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | visualize,2
+2019-03-14,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | visualize,4
+2019-03-13,meh,workplace work | date (+time spent) | touch | gaming | television | walking (30m+) | visualize,3
+2019-03-12,rad,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | films | visualize,5
+2019-03-11,good,workplace work | people (1h+) | friends | date (+time spent) | reading | gaming | visualize,4
+2019-03-10,rad,workplace work | people (1h+) | date (+time spent) | touch | sun (on skin) | visualize,5
+2019-03-09,good,workplace work | people (1h+) | date (+time spent) | touch | gaming | television | visualize,4
+2019-03-08,rad,workplace work | people (1h+) | friends | date (+time spent) | touch | reading,5
+2019-03-07,rad,workplace work | people (1h+) | date (+time spent) | touch | reading | visualize,5
+2019-03-06,meh,workplace work | people (1h+) | date (+time spent) | touch | reading | gaming | visualize,3
+2019-03-05,meh,workplace work | people (1h+) | reading | gaming | sport | visualize,3
+2019-03-04,good,workplace work | people (1h+) | friends | touch | reading | gaming | visualize,4
+2019-03-03,rad,people (1h+) | date (+time spent) | touch | visualize,5
+2019-03-02,good,workplace work | people (1h+) | friends | sport | visualize,4
+2019-03-01,meh,workplace work | people (1h+) | date (+time spent) | gaming | visualize,3
+2019-02-28,good,workplace work | people (1h+) | gaming | sport | visualize,4
+2019-02-27,good,workplace work | people (1h+) | reading | gaming | sun (on skin) | visualize,4
+2019-02-26,good,workplace work | people (1h+) | reading | television | sun (on skin) | visualize,4
+2019-02-25,good,workplace work | people (1h+) | party/bar | date (+time spent) | gaming | sun (on skin) | visualize,4
+2019-02-24,rad,people (1h+) | friends | travel | sun (on skin) | walking (30m+),5
+2019-02-23,rad,people (1h+) | friends | party/bar | travel | sun (on skin) | walking (30m+),5
+2019-02-22,rad,workplace work | people (1h+) | date (+time spent) | touch | reading | sun (on skin) | visualize,5
+2019-02-21,good,workplace work | people (1h+) | reading | gaming | sun (on skin) | visualize,4
+2019-02-20,meh,workplace work | people (1h+) | touch | reading | gaming | television | sun (on skin),3
+2019-02-19,meh,date (+time spent) | gaming | television | sun (on skin) | visualize,3
+2019-02-18,meh,workplace work | people (1h+) | reading | gaming | sun (on skin) | visualize,3
+2019-02-17,rad,people (1h+) | date (+time spent) | gaming | television | sun (on skin) | walking (30m+) | visualize,5
+2019-02-16,meh,workplace work | people (1h+) | friends | party/bar | sun (on skin) | visualize,3
+2019-02-15,good,workplace work | people (1h+) | friends | date (+time spent) | gaming | visualize,4
+2019-02-14,good,workplace work | people (1h+) | gaming | sun (on skin) | visualize,4
+2019-02-13,good,workplace work | people (1h+) | reading | gaming | sun (on skin) | visualize | meet 30min,4
+2019-02-12,good,workplace work | people (1h+) | friends | date (+time spent) | gaming | television | visualize,4
+2019-02-11,good,workplace work | people (1h+) | reading | gaming | television | visualize,4
+2019-02-10,meh,gaming | sport | visualize,3
+2019-02-09,meh,people (1h+) | friends | gaming | walking (30m+) | visualize | meet 30min,3
+2019-02-08,good,workplace work | people (1h+) | friends | gaming | television | visualize | meet 30min,4
+2019-02-07,meh,workplace work | people (1h+) | party/bar | reading | gaming | sun (on skin) | visualize | meet 30min,3
+2019-02-06,good,workplace work | people (1h+) | television | visualize,4
+2019-02-05,meh,workplace work | gaming | television | sun (on skin) | visualize | meet 30min,3
+2019-02-04,good,workplace work | people (1h+) | friends | gaming | visualize | meet 30min,4
+2019-02-03,good,people (1h+) | sun (on skin) | visualize | meet 30min,4
+2019-02-02,rad,workplace work | people (1h+) | friends | party/bar | television | visualize | meet 30min,5
+2019-02-01,good,workplace work | people (1h+) | friends | party/bar | gaming | visualize | meet 30min,4
+2019-01-31,good,workplace work | people (1h+) | gaming | television | sport | visualize | meet 30min,4
+2019-01-30,good,workplace work | people (1h+) | friends | gaming | television | sun (on skin) | visualize | meet 30min,4
+2019-01-29,good,workplace work | people (1h+) | reading | gaming | visualize | meet 30min,4
+2019-01-28,good,workplace work | people (1h+) | friends | reading | gaming | television | 4pda/search | sun (on skin) | visualize | meet 30min,4
+2019-01-27,good,people (1h+) | reading | gaming | 4pda/search | sport | visualize | meet 30min,4
+2019-01-26,rad,workplace work | people (1h+) | friends | gaming | 4pda/search | visualize | meet 30min,5
+2019-01-25,good,workplace work | gaming | meet 30min,4
+2019-01-24,meh,workplace work | people (1h+) | gaming | sport | meet 30min,3
+2019-01-23,bad,gaming | films | television | meet 30min,2
+2019-01-22,meh,workplace work | people (1h+) | reading | gaming,3
+2019-01-21,meh,people (1h+) | reading | gaming,3
+2019-01-21,rad,workplace work | sun (on skin),5
+2019-01-20,good,people (1h+) | reading | gaming | television | sport,4
+2019-01-19,good,workplace work | people (1h+) | friends | party/bar,4
+2019-01-18,meh,people (1h+) | friends | gaming,3
+2019-01-18,good,workplace work | people (1h+) | sun (on skin),4
+2019-01-17,meh,workplace work | people (1h+) | date (+time spent) | shopping (big) | walking (30m+),3
+2019-01-16,meh,workplace work | reading | television | 4pda/search | relax,3
+2019-01-15,good,workplace work | people (1h+) | friends | television | shopping (big),4
+2019-01-14,meh,workplace work | people (1h+) | party/bar,3
+2019-01-13,bad,,2
+2019-01-12,rad,workplace work | people (1h+) | date (+time spent) | touch | eating out | films | television | relax,5
+2019-01-11,meh,workplace work | people (1h+) | date (+time spent) | touch | television | walking (30m+) | relax,3
+2019-01-10,good,workplace work | people (1h+) | date (+time spent) | touch | television | walking (30m+) | relax,4
+2019-01-09,good,workplace work | people (1h+) | date (+time spent) | touch,4
+2019-01-08,meh,workplace work | gaming | television,3
+2019-01-07,rad,workplace work | people (1h+) | gaming,5
+2019-01-06,meh,workplace work | gaming | television,3
+2019-01-05,meh,films | television | walking (30m+),3
+2019-01-04,good,films | relax,4
+2019-01-03,good,friends | films,4
+2019-01-02,good,friends | shopping (big),4
+2019-01-02,meh,,3
+2019-01-01,good,workplace work | television | relax,4

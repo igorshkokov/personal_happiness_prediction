@@ -1,0 +1,1280 @@
+date,category,amount
+2019-01-02,Bills,69040
+2019-01-02,Other,1600
+2019-01-02,Eating out,288
+2019-01-03,Eating out,152
+2019-01-03,House,5463.200000000001
+2019-01-03,Eating out,288
+2019-01-03,Social life,632
+2019-01-03,Almost prepared food,839.2
+2019-01-03,Food,320.79999999999995
+2019-01-04,Almost prepared food,568
+2019-01-05,Food,846.4
+2019-01-06,Vêtements,120
+2019-01-06,Eating out,996.0000000000001
+2019-01-07,Social life,240
+2019-01-07,Bills,937.5999999999999
+2019-01-07,Bills,3040
+2019-01-07,Food,1162.3999999999999
+2019-01-08,Eating out,764
+2019-01-08,Almost prepared food,875.1999999999999
+2019-01-09,Eating out,1080
+2019-01-09,Transport,744
+2019-01-09,Food,1621.6
+2019-01-10,Eating out,800
+2019-01-10,Eating out,1304
+2019-01-12,Social life,9600
+2019-01-12,Eating out,480
+2019-01-12,Eating out,480
+2019-01-12,Eating out,1359.1999999999998
+2019-01-14,Eating out,800
+2019-01-14,Don't know,2320
+2019-01-14,Food,2333.6000000000004
+2019-01-15,Eating out,224
+2019-01-15,Almost prepared food,783.1999999999999
+2019-01-15,Social life,239.2
+2019-01-16,Eating out,400
+2019-01-16,Almost prepared food,480
+2019-01-17,Eating out,800
+2019-01-17,Other,24000
+2019-01-18,Other,1199.2
+2019-01-18,Eating out,344
+2019-01-18,Eating out,952
+2019-01-18,Other,9984
+2019-01-19,Social life,561.5999999999999
+2019-01-20,Other,502.40000000000003
+2019-01-20,Eating out,800
+2019-01-20,Eating out,800
+2019-01-20,Food,794.4
+2019-01-21,Bills,340
+2019-01-21,Eating out,1320
+2019-01-21,Eating out,240
+2019-01-22,Almost prepared food,839.2
+2019-01-22,Food,257.6
+2019-01-22,Food,417.59999999999997
+2019-01-22,Food,102.4
+2019-01-23,Almost prepared food,416
+2019-01-24,Eating out,176
+2019-01-24,Eating out,952
+2019-01-24,Other,4238.4
+2019-01-24,Eating out,944
+2019-01-24,Eating out,304
+2019-01-25,Eating out,1080
+2019-01-25,Almost prepared food,224
+2019-01-25,Social life,320
+2019-01-26,Eating out,744
+2019-01-27,Eating out,556
+2019-01-27,Social life,532
+2019-01-28,Social life,480
+2019-01-28,Eating out,952
+2019-01-28,Food,1699.1999999999998
+2019-01-29,Almost prepared food,828.0000000000001
+2019-01-29,House,576.8
+2019-01-29,Social life,346.4
+2019-01-30,Eating out,680
+2019-01-30,Eating out,230.39999999999998
+2019-01-30,Food,604.8
+2019-01-31,Social life,400
+2019-01-31,Eating out,952
+2019-02-01,Eating out,849.5999999999999
+2019-02-01,Social life,1073.6
+2019-02-01,Almost prepared food,396
+2019-02-01,Almost prepared food,396
+2019-02-02,Social life,520
+2019-02-02,Eating out,1360
+2019-02-03,Social life,240
+2019-02-03,Eating out,792
+2019-02-04,Food,2168.8
+2019-02-04,Eating out,600
+2019-02-05,Eating out,1080
+2019-02-05,Food,776
+2019-02-05,Bills,800
+2019-02-06,Almost prepared food,360
+2019-02-06,Bills,3040
+2019-02-06,Bills,69040
+2019-02-06,Social life,480
+2019-02-06,Social life,320
+2019-02-07,Other,626.4
+2019-02-07,Eating out,1080
+2019-02-07,Social life,160
+2019-02-08,Social life,320
+2019-02-08,Bills,720
+2019-02-08,Other,1599.1999999999998
+2019-02-08,Other,179.20000000000002
+2019-02-08,Food,675.1999999999999
+2019-02-08,Social life,320
+2019-02-09,Social life,320
+2019-02-09,Social life,1104
+2019-02-09,Almost prepared food,343.2
+2019-02-09,Social life,320
+2019-02-10,Other,7214.4
+2019-02-12,Food,1647.2
+2019-02-12,Vêtements,800
+2019-02-12,Eating out,849.5999999999999
+2019-02-12,Social life,400
+2019-02-12,Social life,1200
+2019-02-13,Social life,320
+2019-02-14,Almost prepared food,700
+2019-02-14,Food,424
+2019-02-14,Social life,1235.2
+2019-02-14,Social life,216
+2019-02-15,Bills,720
+2019-02-15,Eating out,1080
+2019-02-16,Social life,816
+2019-02-16,Almost prepared food,352
+2019-02-16,Almost prepared food,235.99999999999997
+2019-02-17,Eating out,560
+2019-02-18,Social life,560
+2019-02-18,Eating out,1032
+2019-02-18,Almost prepared food,316.8
+2019-02-19,Food,324
+2019-02-19,Eating out,244
+2019-02-20,Eating out,1080
+2019-02-20,Almost prepared food,903.1999999999999
+2019-02-20,Social life,280
+2019-02-21,Almost prepared food,664
+2019-02-21,Social life,112
+2019-02-21,Bills,340
+2019-02-22,Social life,600
+2019-02-22,Eating out,1272
+2019-02-22,Eating out,792
+2019-02-23,Eating out,704
+2019-02-23,Eating out,792
+2019-02-23,Eating out,512
+2019-02-23,Eating out,1080
+2019-02-24,Social life,296
+2019-02-24,Eating out,240
+2019-02-24,Eating out,144
+2019-02-24,Eating out,792
+2019-02-24,Eating out,616
+2019-02-24,Eating out,232
+2019-02-25,Food,408
+2019-02-26,Social life,400
+2019-02-26,Eating out,1032
+2019-02-26,Social life,872
+2019-02-26,Almost prepared food,616
+2019-02-27,Social life,384
+2019-02-27,Social life,400
+2019-02-28,Bills,1600
+2019-02-28,Food,2308
+2019-03-01,Eating out,849.5999999999999
+2019-03-02,Social life,400
+2019-03-02,Bills,800
+2019-03-02,Food,1000
+2019-03-02,Almost prepared food,903.1999999999999
+2019-03-03,Social life,784
+2019-03-04,Social life,1224
+2019-03-04,Bills,71201.6
+2019-03-04,Eating out,1080
+2019-03-04,Eating out,560
+2019-03-04,Social life,520
+2019-03-05,Bills,21520
+2019-03-05,Eating out,745.6
+2019-03-05,Health,1319.1999999999998
+2019-03-06,Bills,3040
+2019-03-06,Social life,480
+2019-03-07,Eating out,448.79999999999995
+2019-03-07,Food,958.4000000000001
+2019-03-07,Food,806.4
+2019-03-08,Social life,240
+2019-03-08,Transport,80
+2019-03-08,Almost prepared food,868.0000000000001
+2019-03-09,Almost prepared food,515.2
+2019-03-09,Eating out,612
+2019-03-10,Almost prepared food,200
+2019-03-10,Social life,480
+2019-03-11,Eating out,496
+2019-03-11,Eating out,1104
+2019-03-11,Almost prepared food,399.20000000000005
+2019-03-11,Social life,320
+2019-03-12,Social life,480
+2019-03-12,Social life,240
+2019-03-12,Social life,831.2
+2019-03-12,Eating out,443.2
+2019-03-12,Almost prepared food,476
+2019-03-13,Social life,280
+2019-03-13,Eating out,744
+2019-03-14,Eating out,1556.7999999999997
+2019-03-14,Food,519.2
+2019-03-15,Almost prepared food,664
+2019-03-15,Food,971.1999999999999
+2019-03-16,Social life,400
+2019-03-16,Social life,960
+2019-03-16,Almost prepared food,875.1999999999999
+2019-03-17,Social life,280
+2019-03-17,Food,749.6000000000001
+2019-03-18,Eating out,840
+2019-03-18,Almost prepared food,684
+2019-03-19,Eating out,1944
+2019-03-20,Eating out,1440
+2019-03-20,Bills,720
+2019-03-20,Eating out,400
+2019-03-20,Eating out,208
+2019-03-20,Social life,320
+2019-03-21,Bills,2045.6
+2019-03-21,Eating out,1000
+2019-03-21,Eating out,560
+2019-03-22,Almost prepared food,727.2
+2019-03-22,Food,1864
+2019-03-23,Bills,340
+2019-03-23,Eating out,160
+2019-03-23,Almost prepared food,175.2
+2019-03-23,Social life,384
+2019-03-24,Social life,240
+2019-03-24,Transport,80
+2019-03-24,Eating out,1080
+2019-03-25,Eating out,468
+2019-03-25,Bills,140.8
+2019-03-25,Almost prepared food,839.2
+2019-03-26,Eating out,720
+2019-03-26,Bills,135.20000000000002
+2019-03-27,Social life,913.6
+2019-03-27,Eating out,528
+2019-03-27,Transport,400
+2019-03-27,Transport,2208
+2019-03-27,Eating out,508.79999999999995
+2019-03-27,Bills,800
+2019-03-28,Almost prepared food,444
+2019-03-29,Transport,80
+2019-03-29,Eating out,1080
+2019-03-29,Food,924.8000000000001
+2019-03-29,House,1200.8
+2019-03-30,Almost prepared food,200
+2019-03-30,Social life,400
+2019-03-30,Eating out,440
+2019-03-30,Eating out,244
+2019-03-31,Eating out,272
+2019-03-31,Eating out,720
+2019-03-31,Food,1324
+2019-04-01,Eating out,456
+2019-04-02,Eating out,736
+2019-04-03,Eating out,1040
+2019-04-03,Almost prepared food,160
+2019-04-03,Food,912.8
+2019-04-04,Eating out,672
+2019-04-04,Social life,344
+2019-04-04,Almost prepared food,504
+2019-04-05,Bills,70120.8
+2019-04-05,Almost prepared food,368
+2019-04-05,Bills,3040
+2019-04-05,Bills,800
+2019-04-05,Social life,260.8
+2019-04-05,Social life,80
+2019-04-06,Transport,80
+2019-04-06,Transport,80
+2019-04-06,Almost prepared food,360
+2019-04-06,Eating out,208
+2019-04-06,Transport,80
+2019-04-06,Almost prepared food,399.20000000000005
+2019-04-06,Social life,320
+2019-04-07,Food,400
+2019-04-07,Food,663.1999999999999
+2019-04-08,Eating out,520
+2019-04-08,Eating out,80
+2019-04-08,Almost prepared food,368
+2019-04-08,Social life,320
+2019-04-09,Eating out,1120
+2019-04-09,Eating out,80
+2019-04-09,Food,1416.8000000000002
+2019-04-09,Social life,280
+2019-04-10,Eating out,536
+2019-04-10,Eating out,80
+2019-04-10,Health,1319.1999999999998
+2019-04-11,Eating out,849.5999999999999
+2019-04-11,Transport,80
+2019-04-12,Eating out,1032
+2019-04-12,Almost prepared food,344
+2019-04-12,Social life,440
+2019-04-13,Other,959.2
+2019-04-13,Food,1164
+2019-04-13,Food,1048.8
+2019-04-13,Almost prepared food,420
+2019-04-14,Almost prepared food,356
+2019-04-14,Eating out,1240
+2019-04-15,Voyage,19360
+2019-04-15,Bills,720
+2019-04-15,Eating out,159.2
+2019-04-16,Eating out,479.20000000000005
+2019-04-16,Bills,800
+2019-04-16,Almost prepared food,368
+2019-04-17,Voyage,11120
+2019-04-17,Other,1758.3999999999996
+2019-04-17,Other,1200
+2019-04-17,Social life,240
+2019-04-17,Transport,80
+2019-04-18,Voyage,880
+2019-04-18,Eating out,532.8
+2019-04-18,Voyage,12072
+2019-04-18,Almost prepared food,399.20000000000005
+2019-04-18,Voyage,4216
+2019-04-19,Bills,340
+2019-04-19,Almost prepared food,420
+2019-04-20,Voyage,10060
+2019-04-22,Voyage,17936
+2019-04-23,Eating out,1120
+2019-04-23,Food,1079.2
+2019-04-24,Eating out,459.20000000000005
+2019-04-24,Almost prepared food,480
+2019-04-25,Eating out,599.2
+2019-04-25,Eating out,160
+2019-04-26,Eating out,800
+2019-04-27,Other,1460
+2019-04-27,Other,8000
+2019-04-27,Almost prepared food,200
+2019-04-27,Other,1053.6
+2019-04-30,Voyage,17948
+2019-05-01,Bills,70120.8
+2019-05-06,Bills,3040
+2019-05-07,Bills,800
+2019-05-11,Bills,520
+2019-05-11,Almost prepared food,399.20000000000005
+2019-05-11,Food,852
+2019-05-11,Food,1349.6000000000001
+2019-05-11,Vêtements,1119.2
+2019-05-11,Eating out,244
+2019-05-12,Eating out,256
+2019-05-12,Social life,800
+2019-05-12,Health,254.4
+2019-05-12,Eating out,1584
+2019-05-13,Social life,2000
+2019-05-13,Eating out,503.2
+2019-05-14,Bills,720
+2019-05-14,Social life,4720
+2019-05-14,Eating out,1080
+2019-05-14,Almost prepared food,160
+2019-05-14,Social life,600
+2019-05-15,Social life,280
+2019-05-15,Eating out,499.20000000000005
+2019-05-15,Almost prepared food,456
+2019-05-15,Eating out,280
+2019-05-16,Eating out,864
+2019-05-16,Social life,400
+2019-05-17,Eating out,447.2
+2019-05-17,Eating out,264
+2019-05-17,Eating out,800
+2019-05-18,Eating out,880
+2019-05-18,Social life,344
+2019-05-18,Social life,320
+2019-05-18,Eating out,1440
+2019-05-19,Food,1273.6
+2019-05-20,Voyage,4372
+2019-05-20,Eating out,511.2
+2019-05-20,Almost prepared food,420
+2019-05-21,Bills,544
+2019-05-21,Eating out,776
+2019-05-22,Eating out,792
+2019-05-23,Eating out,952
+2019-05-23,Almost prepared food,404
+2019-05-23,Transport,80
+2019-05-24,Eating out,555.2
+2019-05-24,Food,720
+2019-05-25,Social life,800
+2019-05-25,Eating out,720
+2019-05-25,Almost prepared food,465.59999999999997
+2019-05-25,Social life,156
+2019-05-26,Almost prepared food,354.40000000000003
+2019-05-26,Food,1027.2
+2019-05-27,House,1440
+2019-05-27,Eating out,427.2
+2019-05-27,Almost prepared food,399.20000000000005
+2019-05-27,Eating out,240
+2019-05-28,Eating out,459.20000000000005
+2019-05-28,Almost prepared food,160
+2019-05-28,Eating out,280
+2019-05-29,Bills,800
+2019-05-29,Eating out,952
+2019-05-29,Almost prepared food,420
+2019-06-02,Transport,400
+2019-06-03,Bills,70120.8
+2019-06-03,Eating out,695.1999999999999
+2019-06-03,Voyage,27872.799999999996
+2019-06-03,Almost prepared food,632
+2019-06-03,Social life,240
+2019-06-04,Food,1208.8
+2019-06-04,Food,1009.5999999999999
+2019-06-04,Eating out,472
+2019-06-04,Social life,320
+2019-06-04,Social life,324
+2019-06-05,Other,800
+2019-06-05,Bills,3040
+2019-06-05,Bills,800
+2019-06-05,Eating out,427.2
+2019-06-05,Almost prepared food,320
+2019-06-06,Eating out,501.6
+2019-06-07,Eating out,503.2
+2019-06-07,Social life,381.6
+2019-06-07,Food,119.2
+2019-06-08,Eating out,1280
+2019-06-08,Eating out,320
+2019-06-08,Eating out,1080
+2019-06-08,Social life,320
+2019-06-09,Almost prepared food,200
+2019-06-10,Food,717.6
+2019-06-10,Social life,280
+2019-06-11,Eating out,1080
+2019-06-11,Social life,280
+2019-06-12,Eating out,880
+2019-06-12,Almost prepared food,512.8
+2019-06-12,Food,819.1999999999998
+2019-06-12,Eating out,260
+2019-06-13,Eating out,720
+2019-06-14,Bills,720
+2019-06-14,Social life,879.2
+2019-06-14,Eating out,792
+2019-06-14,Almost prepared food,580
+2019-06-15,Social life,360
+2019-06-15,Eating out,776
+2019-06-16,Gifts,624
+2019-06-16,Food,689.5999999999999
+2019-06-17,Eating out,1080
+2019-06-18,Eating out,792
+2019-06-18,Almost prepared food,319.2
+2019-06-19,Eating out,344
+2019-06-20,Bills,544
+2019-06-20,Eating out,720
+2019-06-20,Eating out,600
+2019-06-21,Eating out,1032
+2019-06-21,Eating out,80
+2019-06-21,Food,1439.1999999999998
+2019-06-21,Food,1439.1999999999998
+2019-06-21,Eating out,80
+2019-06-22,Laundy,400
+2019-06-22,Eating out,849.5999999999999
+2019-06-22,House,71.2
+2019-06-22,Eating out,268
+2019-06-22,Health,472
+2019-06-24,Eating out,1080
+2019-06-24,Almost prepared food,490.4
+2019-06-24,Food,436
+2019-06-25,Eating out,880
+2019-06-25,Food,464.79999999999995
+2019-06-25,Social life,264
+2019-06-26,Eating out,792
+2019-06-26,Almost prepared food,160
+2019-06-26,Food,483.2
+2019-06-27,Eating out,1040
+2019-06-27,Eating out,160
+2019-06-27,Eating out,556
+2019-06-28,Eating out,160
+2019-06-28,Eating out,640
+2019-06-28,Food,807.2
+2019-06-29,Eating out,520
+2019-07-01,Eating out,720
+2019-07-01,Almost prepared food,197.59999999999997
+2019-07-01,House,1138.3999999999999
+2019-07-01,Social life,166.4
+2019-07-02,Eating out,552
+2019-07-02,Voyage,5440
+2019-07-03,Bills,800
+2019-07-03,Bills,70080
+2019-07-03,Eating out,1040
+2019-07-03,Bills,4000
+2019-07-03,Almost prepared food,616
+2019-07-04,Eating out,792
+2019-07-04,Food,1670.3999999999999
+2019-07-05,Eating out,1240
+2019-07-05,Food,443.2
+2019-07-05,Voyage,1344
+2019-07-05,Voyage,600
+2019-07-06,Bills,3040
+2019-07-06,Bills,800
+2019-07-06,Eating out,291.2
+2019-07-06,Voyage,800
+2019-07-06,Eating out,600
+2019-07-06,Eating out,200
+2019-07-06,Social life,1200
+2019-07-07,Food,430.4
+2019-07-07,Eating out,600
+2019-07-09,Eating out,552
+2019-07-09,Food,779.1999999999998
+2019-07-09,Social life,280
+2019-07-10,Eating out,648
+2019-07-10,Eating out,560
+2019-07-10,Social life,268
+2019-07-11,Eating out,952
+2019-07-11,Social life,472
+2019-07-11,Almost prepared food,160
+2019-07-12,Eating out,1000
+2019-07-12,Almost prepared food,399.20000000000005
+2019-07-12,House,784
+2019-07-13,Transport,80
+2019-07-13,Food,212
+2019-07-14,Eating out,480
+2019-07-16,Bills,720
+2019-07-22,House,878.4000000000001
+2019-07-23,Bills,544
+2019-07-23,Gifts,80
+2019-07-31,Voyage,70967.2
+2019-07-31,Eating out,1120
+2019-07-31,Food,619.2
+2019-07-31,Almost prepared food,360
+2019-08-01,Eating out,552
+2019-08-01,Food,1398.3999999999996
+2019-08-01,Social life,143.2
+2019-08-02,Transport,80
+2019-08-02,Eating out,1040
+2019-08-02,Food,288
+2019-08-03,Social life,175.2
+2019-08-03,Eating out,520
+2019-08-03,Eating out,392
+2019-08-05,Bills,800
+2019-08-05,Eating out,872
+2019-08-05,Almost prepared food,580
+2019-08-06,Transport,160
+2019-08-06,Eating out,552
+2019-08-06,Bills,800
+2019-08-06,Food,766.4
+2019-08-07,Eating out,752
+2019-08-07,Social life,104
+2019-08-07,Social life,800
+2019-08-07,Transport,80
+2019-08-08,Eating out,680
+2019-08-08,Bills,70120.8
+2019-08-08,Food,1080.8
+2019-08-08,Voyage,599.2
+2019-08-08,Other,3064
+2019-08-09,Eating out,760
+2019-08-09,Social life,360
+2019-08-10,Eating out,852
+2019-08-10,Eating out,720
+2019-08-11,Eating out,688
+2019-08-11,Food,720
+2019-08-11,Social life,120
+2019-08-12,Eating out,872
+2019-08-13,Eating out,600
+2019-08-13,Almost prepared food,320
+2019-08-14,Eating out,1040
+2019-08-14,Bills,720
+2019-08-16,Voyage,5440
+2019-08-18,Voyage,10423.199999999999
+2019-08-18,Food,136
+2019-08-19,Transport,800
+2019-08-19,Eating out,800
+2019-08-19,Other,304
+2019-08-19,Other,4448
+2019-08-19,Eating out,800
+2019-08-20,Eating out,1024
+2019-08-20,Eating out,1200
+2019-08-21,Eating out,720
+2019-08-21,Bills,544
+2019-08-21,Eating out,400
+2019-08-21,Social life,144
+2019-08-22,Eating out,760
+2019-08-22,Food,532
+2019-08-23,Eating out,952
+2019-08-23,Eating out,1520
+2019-08-24,Eating out,800
+2019-08-24,Social life,190.39999999999998
+2019-08-24,Eating out,784.8000000000001
+2019-08-25,Social life,432
+2019-08-25,Social life,384
+2019-08-25,Social life,2240
+2019-08-25,Eating out,328
+2019-08-26,Eating out,552
+2019-08-26,Eating out,638.4000000000001
+2019-08-26,Food,305.59999999999997
+2019-08-27,Eating out,1120
+2019-08-28,Eating out,168
+2019-08-28,Eating out,720
+2019-08-28,Almost prepared food,636
+2019-08-29,Eating out,640
+2019-08-29,Food,1247.2
+2019-08-30,Other,1344
+2019-08-30,Eating out,1032
+2019-08-30,Eating out,696
+2019-08-31,Food,445.6
+2019-08-31,Transport,80
+2019-08-31,Eating out,960
+2019-08-31,Gifts,160
+2019-08-31,Transport,800
+2019-08-31,Eating out,720
+2019-09-01,Voyage,80
+2019-09-01,Voyage,800
+2019-09-01,Voyage,176.8
+2019-09-01,Eating out,696
+2019-09-02,Bills,70120.8
+2019-09-02,Eating out,472
+2019-09-02,Eating out,168
+2019-09-02,Social life,240
+2019-09-02,Transport,80
+2019-09-03,Eating out,800
+2019-09-03,Almost prepared food,160
+2019-09-03,Eating out,1320
+2019-09-04,Bills,828.0000000000001
+2019-09-04,Eating out,792
+2019-09-05,Transport,80
+2019-09-05,Eating out,800
+2019-09-05,Eating out,232
+2019-09-05,Food,1248
+2019-09-05,Social life,360
+2019-09-06,Eating out,952
+2019-09-06,Almost prepared food,536
+2019-09-06,Social life,159.2
+2019-09-07,Eating out,672
+2019-09-08,Social life,144
+2019-09-08,Almost prepared food,808.8
+2019-09-08,Social life,160
+2019-09-08,Social life,416
+2019-09-09,Social life,240
+2019-09-09,Eating out,800
+2019-09-09,Eating out,232
+2019-09-09,Transport,80
+2019-09-09,Bills,60800
+2019-09-10,Eating out,880
+2019-09-10,Food,832
+2019-09-11,Eating out,1104
+2019-09-11,Almost prepared food,476
+2019-09-11,Transport,80
+2019-09-12,Eating out,1032
+2019-09-12,Social life,143.2
+2019-09-13,Transport,80
+2019-09-13,Eating out,792
+2019-09-13,Almost prepared food,160
+2019-09-13,Food,404
+2019-09-14,Eating out,760
+2019-09-14,Voyage,392
+2019-09-14,Voyage,392
+2019-09-14,Voyage,560
+2019-09-15,Eating out,552
+2019-09-16,Bills,544
+2019-09-16,Bills,720
+2019-09-16,Eating out,696
+2019-09-16,Bills,1600
+2019-09-17,Voyage,3120
+2019-09-17,Eating out,720
+2019-09-17,Almost prepared food,425.59999999999997
+2019-09-17,Eating out,328
+2019-09-18,Social life,240
+2019-09-18,Eating out,792
+2019-09-19,Eating out,152
+2019-09-19,Food,983.1999999999999
+2019-09-19,Social life,440
+2019-09-20,Eating out,792
+2019-09-21,Food,1689.6000000000001
+2019-09-21,Almost prepared food,379.20000000000005
+2019-09-22,Food,508
+2019-09-22,Eating out,320
+2019-09-23,Eating out,1032
+2019-09-24,Eating out,760
+2019-09-25,Eating out,616
+2019-09-25,Food,858.3999999999999
+2019-09-25,Social life,360
+2019-09-25,Social life,320
+2019-09-26,Eating out,640
+2019-09-26,Eating out,168
+2019-09-27,Voyage,120
+2019-09-27,Eating out,952
+2019-09-27,Food,539.2
+2019-09-27,Social life,280
+2019-09-27,Social life,240
+2019-09-28,Eating out,708.0000000000001
+2019-09-28,Eating out,480
+2019-09-28,Voyage,1200
+2019-09-29,Eating out,112
+2019-09-29,Voyage,120
+2019-09-29,Eating out,336
+2019-09-29,Transport,80
+2019-09-30,Eating out,1032
+2019-09-30,Other,643.1999999999999
+2019-09-30,Food,1620.7999999999997
+2019-10-01,Eating out,600
+2019-10-01,Food,764
+2019-10-01,Social life,320
+2019-10-02,Eating out,792
+2019-10-02,Bills,800
+2019-10-02,Social life,440
+2019-10-03,Eating out,720
+2019-10-03,Almost prepared food,596
+2019-10-04,Bills,70120.8
+2019-10-04,Eating out,640
+2019-10-05,Eating out,456
+2019-10-05,Food,376
+2019-10-05,Eating out,1096
+2019-10-06,Eating out,552
+2019-10-06,Gifts,160
+2019-10-07,Health,324
+2019-10-07,Eating out,1032
+2019-10-08,Eating out,69.60000000000001
+2019-10-08,Eating out,952
+2019-10-08,Bills,960
+2019-10-08,Food,584
+2019-10-09,Almost prepared food,320
+2019-10-10,Eating out,640
+2019-10-10,Vêtements,1592
+2019-10-11,Food,120
+2019-10-11,Eating out,760
+2019-10-11,Food,276
+2019-10-12,Food,637.6
+2019-10-12,Social life,320
+2019-10-12,Transport,80
+2019-10-12,Eating out,912
+2019-10-13,Eating out,927.2
+2019-10-13,Eating out,104
+2019-10-14,Bills,720
+2019-10-14,Eating out,720
+2019-10-14,Food,762.4
+2019-10-14,Bills,13160
+2019-10-15,Eating out,792
+2019-10-15,Almost prepared food,558.4000000000001
+2019-10-16,Eating out,640
+2019-10-16,Eating out,168
+2019-10-16,Other,80
+2019-10-16,Social life,320
+2019-10-17,Eating out,952
+2019-10-17,Food,1612.0000000000002
+2019-10-18,Eating out,1032
+2019-10-18,Social life,800
+2019-10-18,Eating out,1080
+2019-10-18,Social life,280
+2019-10-19,Food,1075.2
+2019-10-20,Social life,176
+2019-10-20,Almost prepared food,406.4
+2019-10-20,Almost prepared food,406.4
+2019-10-21,Transport,80
+2019-10-21,Eating out,1032
+2019-10-21,Bills,544
+2019-10-21,Other,630.4
+2019-10-21,Almost prepared food,660
+2019-10-22,Eating out,640
+2019-10-22,Social life,320
+2019-10-23,Eating out,600
+2019-10-23,Gifts,522.4
+2019-10-24,Eating out,720
+2019-10-24,Eating out,220
+2019-10-24,Gifts,664
+2019-10-25,Voyage,67832
+2019-10-25,Voyage,7593.6
+2019-10-25,Eating out,120
+2019-10-25,Eating out,792
+2019-10-25,Almost prepared food,343.2
+2019-10-26,Almost prepared food,468
+2019-11-04,Bills,70120.8
+2019-11-05,Bills,1159.2
+2019-11-10,Transport,6016
+2019-11-10,Eating out,872
+2019-11-10,Vêtements,8000
+2019-11-10,Vêtements,1600
+2019-11-10,Eating out,320
+2019-11-11,Food,2353.6
+2019-11-11,Bills,6560
+2019-11-12,Bills,480
+2019-11-12,House,1916.7999999999997
+2019-11-13,Eating out,640
+2019-11-14,Eating out,600
+2019-11-14,Bills,720
+2019-11-15,Other,3600
+2019-11-15,Eating out,704
+2019-11-15,Almost prepared food,360
+2019-11-17,Social life,960
+2019-11-17,Gifts,640
+2019-11-17,Eating out,2536
+2019-11-18,Eating out,1032
+2019-11-18,Food,1241.6
+2019-11-19,Transport,80
+2019-11-19,Eating out,760
+2019-11-19,Almost prepared food,320
+2019-11-20,Social life,400
+2019-11-20,Social life,256
+2019-11-20,Eating out,640
+2019-11-21,Eating out,600
+2019-11-21,Other,726.4
+2019-11-22,Food,920
+2019-11-22,Bills,544
+2019-11-22,Social life,360
+2019-11-23,Eating out,456
+2019-11-23,Social life,720
+2019-11-23,Almost prepared food,224
+2019-11-24,Eating out,400
+2019-11-25,Eating out,720
+2019-11-25,Eating out,320
+2019-11-25,Eating out,152
+2019-11-25,Vêtements,800
+2019-11-26,Eating out,776
+2019-11-26,Eating out,1040
+2019-11-27,Bills,5600
+2019-11-27,Food,608
+2019-11-27,Eating out,320
+2019-11-28,Almost prepared food,860
+2019-11-29,Eating out,720
+2019-11-29,Other,14399.2
+2019-11-30,Eating out,280
+2019-11-30,Food,1458.4
+2019-12-01,Bills,17360
+2019-12-01,Bills,70120.8
+2019-12-01,Other,3932
+2019-12-01,Bills,6016
+2019-12-01,Almost prepared food,379.20000000000005
+2019-12-01,Social life,360
+2019-12-03,Eating out,640
+2019-12-03,Other,1475.1999999999998
+2019-12-03,Other,396
+2019-12-04,Other,592
+2019-12-04,Social life,480
+2019-12-05,Eating out,640
+2019-12-05,Other,884
+2019-12-05,Food,975.1999999999999
+2019-12-05,Social life,316
+2019-12-06,Bills,800
+2019-12-06,Eating out,720
+2019-12-06,Social life,200
+2019-12-07,Food,360
+2019-12-07,Food,951.2
+2019-12-07,Eating out,680
+2019-12-07,Bills,400
+2019-12-08,Almost prepared food,676.0000000000001
+2019-12-09,Eating out,319.2
+2019-12-10,Other,451.99999999999994
+2019-12-10,Almost prepared food,424
+2019-12-11,Bills,426.4
+2019-12-11,Bills,520
+2019-12-11,Bills,240.79999999999998
+2019-12-11,Almost prepared food,224
+2019-12-11,Food,548
+2019-12-12,Other,152
+2019-12-12,Almost prepared food,344
+2019-12-12,Food,847.2
+2019-12-13,Almost prepared food,160
+2019-12-13,Food,532
+2019-12-14,Social life,360
+2019-12-14,Almost prepared food,216
+2019-12-14,Food,568
+2019-12-14,Transport,80
+2019-12-15,Eating out,560
+2019-12-15,Social life,400
+2019-12-16,Social life,272
+2019-12-16,Bills,720
+2019-12-16,Almost prepared food,808
+2019-12-16,Food,1139.1999999999998
+2019-12-16,Social life,240
+2019-12-17,Transport,80
+2019-12-17,Social life,160
+2019-12-18,Food,772
+2019-12-19,Bills,544
+2019-12-19,Almost prepared food,384
+2019-12-19,Food,456
+2019-12-19,Transport,80
+2019-12-19,Social life,280
+2019-12-20,Social life,440
+2019-12-21,Almost prepared food,424
+2019-12-22,Social life,400
+2019-12-22,Food,762.4
+2019-12-23,Other,1140
+2019-12-23,Food,666.4
+2019-12-23,Social life,1246.4
+2019-12-24,Transport,80
+2019-12-24,Social life,480
+2019-12-24,Almost prepared food,179.20000000000002
+2019-12-24,Social life,320
+2019-12-25,Transport,80
+2019-12-25,Eating out,320
+2019-12-26,Almost prepared food,476
+2019-12-26,Food,523.2
+2019-12-26,Social life,330.4
+2019-12-28,Social life,280
+2019-12-28,Eating out,1240
+2019-12-29,Almost prepared food,410.4
+2019-12-29,Social life,240
+2019-12-29,Social life,400
+2019-12-30,Almost prepared food,320
+2019-12-30,Food,344
+2019-12-31,Other,2657.6000000000004
+2019-12-31,Food,280
+2020-01-01,Transport,6016
+2020-01-02,Food,1654.4
+2020-01-03,Bills,70120.8
+2020-01-04,Eating out,440
+2020-01-05,Social life,320
+2020-01-05,Food,244
+2020-01-05,Gifts,1192
+2020-01-05,Eating out,560
+2020-01-06,Eating out,590.4
+2020-01-07,Eating out,387.2
+2020-01-07,Food,452.79999999999995
+2020-01-08,Almost prepared food,406.4
+2020-01-08,Social life,400
+2020-01-08,Eating out,319.2
+2020-01-08,Other,161.6
+2020-01-09,Almost prepared food,536
+2020-01-10,Eating out,152
+2020-01-11,Social life,629.6
+2020-01-11,Food,1568
+2020-01-12,Social life,320
+2020-01-12,Eating out,800
+2020-01-12,Social life,320
+2020-01-14,Almost prepared food,405.6
+2020-01-14,Food,635.2
+2020-01-15,Bills,720
+2020-01-15,Almost prepared food,318.4
+2020-01-15,Food,236.8
+2020-01-15,Social life,560
+2020-01-16,Eating out,1600
+2020-01-16,Almost prepared food,159.2
+2020-01-17,Almost prepared food,331.2
+2020-01-17,House,1276
+2020-01-18,Eating out,560
+2020-01-18,Food,536
+2020-01-19,Almost prepared food,468
+2020-01-19,Social life,320
+2020-01-19,Eating out,440
+2020-01-19,Social life,320
+2020-01-20,Almost prepared food,573.6
+2020-01-21,Transport,80
+2020-01-21,Eating out,760
+2020-01-21,Bills,563.2
+2020-01-21,Social life,320
+2020-01-22,Social life,640
+2020-01-22,Eating out,320
+2020-01-22,Almost prepared food,476
+2020-01-22,House,953.6
+2020-01-23,Social life,320
+2020-01-23,Almost prepared food,327.2
+2020-01-23,Social life,320
+2020-01-24,Almost prepared food,224
+2020-01-24,Food,436.8
+2020-01-25,Almost prepared food,350.4
+2020-01-25,Social life,1200
+2020-01-26,Social life,440
+2020-01-26,Social life,312
+2020-01-26,Social life,160
+2020-01-26,Social life,80
+2020-01-26,Almost prepared food,160
+2020-01-26,Eating out,440
+2020-01-27,Social life,320
+2020-01-27,Food,404
+2020-01-28,Transport,800
+2020-01-28,Almost prepared food,502.40000000000003
+2020-01-28,Social life,320
+2020-01-28,Social life,239.2
+2020-01-29,Almost prepared food,160
+2020-01-30,Almost prepared food,406.4
+2020-01-31,Almost prepared food,954.4
+2020-01-31,Food,553.6
+2020-01-31,Social life,508
+2020-02-01,Social life,160
+2020-02-01,Transport,6016
+2020-02-02,Bills,240
+2020-02-02,Bills,70120.8
+2020-02-02,Transport,80
+2020-02-02,Eating out,560
+2020-02-02,Social life,320
+2020-02-04,Almost prepared food,315.2
+2020-02-04,Food,955.1999999999999
+2020-02-04,Social life,336
+2020-02-04,Social life,1280
+2020-02-05,Almost prepared food,335.19999999999993
+2020-02-06,Social life,688
+2020-02-06,Social life,232
+2020-02-06,Almost prepared food,376
+2020-02-06,Social life,320
+2020-02-07,Communications,800
+2020-02-07,Almost prepared food,159.2
+2020-02-07,Social life,400
+2020-02-08,Social life,400
+2020-02-08,Eating out,712
+2020-02-08,Social life,1360
+2020-02-08,Social life,360
+2020-02-09,Social life,235.99999999999997
+2020-02-09,Social life,320
+2020-02-09,Eating out,440
+2020-02-10,Transport,80
+2020-02-10,Almost prepared food,160
+2020-02-10,Food,156
+2020-02-11,Food,920
+2020-02-12,Almost prepared food,159.2
+2020-02-12,Food,671.2
+2020-02-12,Social life,140
+2020-02-12,Eating out,200
+2020-02-13,Voyage,2320
+2020-02-13,Transport,1920
+2020-02-14,Social life,272
+2020-02-14,Bills,720
+2020-02-14,Almost prepared food,159.2
+2020-02-14,Eating out,2240
+2020-02-15,Almost prepared food,335.19999999999993
+2020-02-15,Eating out,544
+2020-02-16,Transport,80
+2020-02-16,Eating out,440
+2020-02-16,Social life,320
+2020-02-17,Eating out,480
+2020-02-18,Eating out,1112
+2020-02-18,Social life,240
+2020-02-19,Vêtements,640
+2020-02-19,Food,546.4
+2020-02-19,Eating out,440
+2020-02-19,Social life,476
+2020-02-19,Social life,200
+2020-02-20,Bills,336
+2020-02-20,Almost prepared food,259.20000000000005
+2020-02-20,Social life,320
+2020-02-21,Almost prepared food,160
+2020-02-21,Food,219.20000000000002
+2020-02-21,Other,1280
+2020-02-21,Eating out,600
+2020-02-22,Food,539.2
+2020-02-22,Almost prepared food,159.2
+2020-02-22,Social life,400
+2020-02-23,Social life,240
+2020-02-23,Transport,80
+2020-02-23,Almost prepared food,555.2
+2020-02-23,Social life,320
+2020-02-23,Eating out,440
+2020-02-24,Other,0.8
+2020-02-25,Food,949.6000000000001
+2020-02-26,Voyage,4198.4
+2020-02-26,Voyage,2320
+2020-02-26,Voyage,6452.799999999999
+2020-02-26,Food,262.40000000000003
+2020-02-26,Social life,320
+2020-02-27,Almost prepared food,318.4
+2020-02-27,Social life,320
+2020-02-29,Voyage,3800.7999999999997
+2020-03-02,Bills,70722.4
+2020-03-02,Bills,240
+2020-03-02,Gifts,312
+2020-03-02,Bills,800
+2020-03-02,Eating out,600
+2020-03-03,Transport,6016
+2020-03-03,Eating out,640
+2020-03-03,Almost prepared food,259.20000000000005
+2020-03-04,Other,80
+2020-03-04,Eating out,440
+2020-03-04,Almost prepared food,159.2
+2020-03-05,Voyage,10398.400000000001
+2020-03-05,Other,560
+2020-03-05,Eating out,792
+2020-03-05,Almost prepared food,415.19999999999993
+2020-03-05,Social life,280
+2020-03-06,Almost prepared food,184
+2020-03-06,Food,789.6000000000001
+2020-03-06,Social life,25.6
+2020-03-08,Voyage,3080
+2020-03-08,Transport,120
+2020-03-08,Eating out,440
+2020-03-08,Social life,320
+2020-03-09,Almost prepared food,160
+2020-03-09,Food,476.8
+2020-03-09,House,1108.8000000000002
+2020-03-09,Social life,240
+2020-03-10,House,192.79999999999998
+2020-03-10,Vêtements,479.20000000000005
+2020-03-10,Eating out,592
+2020-03-10,Eating out,400
+2020-03-11,Food,1048
+2020-03-11,Social life,440
+2020-03-12,Food,759.2
+2020-03-13,Almost prepared food,259.20000000000005
+2020-03-13,Voyage,4080
+2020-03-15,Eating out,752
+2020-03-15,Voyage,4720
+2020-03-16,Gifts,320
+2020-03-18,Voyage,9300
+2020-03-19,Food,1540.7999999999997
+2020-03-19,Food,600
+2020-03-21,Food,1568
+2020-03-23,Food,812
+2020-03-26,Food,1408.8000000000002
+2020-03-26,Food,1276
+2020-03-28,Transport,160
+2020-03-30,Food,897.5999999999999
+2020-03-30,Food,739.1999999999998
+2020-03-30,Transport,2208
+2020-03-31,Almost prepared food,1632
+2020-04-01,Communications,800
+2020-04-01,Almost prepared food,800
+2020-04-02,Bills,290.4
+2020-04-02,Bills,69522.4
+2020-04-02,Bills,240
+2020-04-02,Bills,1741.6
+2020-04-03,Bills,720
+2020-04-03,Food,451.99999999999994
+2020-04-05,Transport,152
+2020-04-05,Transport,152
+2020-04-06,Food,1588
+2020-04-08,Food,1031.2
+2020-04-10,Food,748.0000000000001
+2020-04-11,Social life,304
+2020-04-12,Food,1032.8
+2020-04-14,Almost prepared food,1232
+2020-04-14,Food,616.8
+2020-04-15,Other,358.40000000000003
+2020-04-17,Food,800
+2020-04-17,House,512.8
+2020-04-18,Food,1219.1999999999998
+2020-04-18,Almost prepared food,720
+2020-04-19,House,289.6
+2020-04-19,Social life,304
+2020-04-19,Social life,152
+2020-04-21,Almost prepared food,1132
+2020-04-21,Food,1855.2
+2020-04-27,Almost prepared food,1456
+2020-04-28,Food,2373.6000000000004
+2020-04-28,Food,1022.4
+2020-05-01,Bills,1741.6
+2020-05-02,Bills,240
+2020-05-02,Food,925.6
+2020-05-02,Food,641.5999999999999
+2020-05-03,Bills,70722.4
+2020-05-03,Vêtements,665.6
+2020-05-03,Gifts,422.40000000000003
+2020-05-04,Almost prepared food,1379.1999999999998
+2020-05-05,Bills,800
+2020-05-05,Communications,800
+2020-05-06,Food,1313.6
+2020-05-07,Voyage,6720
+2020-05-08,Food,660
+2020-05-09,Food,384
+2020-05-10,Food,66.4
+2020-05-11,Transport,80
+2020-05-11,Almost prepared food,1404
+2020-05-11,Food,644.8000000000001
+2020-05-12,Eating out,560
+2020-05-12,Transport,80
+2020-05-14,Transport,80
+2020-05-15,Food,2285.6
+2020-05-16,Transport,80
+2020-05-16,Social life,616
+2020-05-17,Social life,769.5999999999999
+2020-05-17,Social life,264
+2020-05-18,Eating out,820
+2020-05-19,Bills,720
+2020-05-19,Food,384
+2020-05-19,Social life,143.2
+2020-05-19,Almost prepared food,299.20000000000005
+2020-05-20,Almost prepared food,159.2
+2020-05-21,Social life,450.4
+2020-05-21,Social life,160
+2020-05-22,Eating out,1272
+2020-05-22,Transport,80
+2020-05-22,Social life,260
+2020-05-22,Transport,152
+2020-05-22,Transport,80
+2020-05-22,Transport,80
+2020-05-22,Eating out,640
+2020-05-23,Almost prepared food,1120
+2020-05-24,Transport,80
+2020-05-24,Transport,80
+2020-05-25,Food,415.19999999999993
+2020-05-26,Food,1048
+2020-05-27,Food,1868
+2020-05-28,Food,568
+2020-05-29,Transport,80
+2020-05-29,Social life,725.6
+2020-05-29,Social life,68
+2020-05-30,Social life,255.2
+2020-05-30,Social life,68
+2020-05-30,Food,336
+2020-05-30,Transport,80
+2020-05-31,Transport,80
+2020-06-01,Bills,1741.6
+2020-06-01,Food,1268.8000000000002
+2020-06-01,Social life,260
+2020-06-01,Transport,80
+2020-06-02,Transport,80
+2020-06-02,Almost prepared food,1564
+2020-06-02,Bills,240
+2020-06-02,Bills,70722.4
+2020-06-04,Bills,720
+2020-06-05,Almost prepared food,263.2
+2020-06-05,Food,1275.2
+2020-06-06,Transport,160
+2020-06-07,Transport,80
+2020-06-07,Social life,381.6
+2020-06-07,Social life,280
+2020-06-08,Other,178.4
+2020-06-09,Transport,80
+2020-06-09,Social life,260
+2020-06-09,Transport,80
+2020-06-10,Almost prepared food,1300.7999999999997
+2020-06-10,Social life,152
+2020-06-11,Food,1649.6000000000001
+2020-06-11,Food,1104
+2020-06-12,Social life,260
+2020-06-12,Transport,80
+2020-06-13,Eating out,1320
+2020-06-13,Social life,440
+2020-06-14,Transport,80
+2020-06-14,Social life,283.2
+2020-06-14,Eating out,560
+2020-06-15,Food,738.3999999999999
+2020-06-15,Other,353.6
+2020-06-15,Transport,80
+2020-06-17,Bills,872
+2020-06-17,Food,680
+2020-06-18,Food,1801.6
+2020-06-19,Almost prepared food,1272
+2020-06-19,Transport,80
+2020-06-20,Transport,80
+2020-06-20,Transport,80
+2020-06-20,Eating out,560
+2020-06-21,Transport,80
+2020-06-21,Transport,80
+2020-06-21,Social life,388.79999999999995
+2020-06-21,Eating out,800
+2020-06-21,Transport,80
+2020-06-22,Bills,1824
+2020-06-23,Food,1104.8
+2020-06-24,Almost prepared food,736
+2020-06-24,Food,576
+2020-06-26,Social life,504
+2020-06-26,Food,1272
+2020-06-26,Health,248.79999999999998
+2020-06-27,Social life,171.20000000000002
+2020-06-28,Social life,176
+2020-06-28,Eating out,639.2
+2020-06-29,Food,1122.3999999999999
+2020-06-30,Transport,80
+2020-06-30,Social life,176.8
+2020-07-01,Bills,1741.6
+2020-07-02,Bills,240
+2020-07-02,Almost prepared food,752
+2020-07-02,Food,906.4
+2020-07-02,Eating out,920
+2020-07-02,Eating out,156
+2020-07-04,Transport,80
+2020-07-04,Transport,80
+2020-07-04,Eating out,560
+2020-07-04,Transport,80
+2020-07-04,Social life,272
+2020-07-04,Social life,144
+2020-07-04,Voyage,17093.6
+2020-07-04,Transport,80
+2020-07-06,Bills,70722.4
+2020-07-07,Bills,800
+2020-07-07,Bills,720
+2020-07-12,Voyage,20396
+2020-07-13,Voyage,19200
+2020-07-14,Transport,80
+2020-07-14,Transport,80
+2020-07-14,Transport,1824
+2020-07-15,Food,1858.4
+2020-07-16,Eating out,1500
+2020-07-16,Almost prepared food,1164
+2020-07-16,Eating out,480
+2020-07-17,Almost prepared food,128
+2020-07-17,Eating out,156
+2020-07-18,Eating out,640
+2020-07-18,Eating out,440
+2020-07-18,Eating out,48
+2020-07-19,Transport,80
+2020-07-19,Eating out,1160
+2020-07-20,Food,384
+2020-07-20,Transport,80
+2020-07-21,Almost prepared food,1188
+2020-07-21,Food,1436
+2020-07-21,Transport,80
+2020-07-22,Food,1120
+2020-07-23,Food,235.99999999999997
+2020-07-24,Food,1084
+2020-07-24,House,2002.4
+2020-07-25,Eating out,156
+2020-07-25,Eating out,1024
+2020-07-25,Eating out,792
+2020-07-26,Transport,80
+2020-07-26,Transport,224
+2020-07-27,Eating out,2039.1999999999998
+2020-07-27,Transport,160
+2020-07-28,Bills,1600
+2020-07-28,Eating out,160
+2020-07-29,Transport,80
+2020-07-30,Eating out,964
+2020-07-31,Social life,400
