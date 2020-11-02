@@ -1,6 +1,6 @@
 # personal_happiness_prediction
 
-Analyse and prediction of my everyday mood based on my data: money spent, activities done and fitness tracker data (steps, sleep, pulse, sport). Python, ML, Tableau
+Analyse and prediction of my everyday mood based on my data: money spent, activities done and fitness tracker data (steps, sleep, pulse, sport). Pandas, ML, Tableau
 
  [Youtube presentation](https://www.youtube.com/watch?v=54jvW1ulaP0)
 
